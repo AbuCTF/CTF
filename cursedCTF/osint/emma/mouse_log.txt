@@ -1,0 +1,26 @@
+Mouse Log
+
+Mouse Log
+
+Click at position: (288, 798)
+Release at position: (288, 798)
+Click at position: (926, 757)
+Release at position: (926, 757)
+Click at position: (1095, 902)
+Release at position: (1095, 902)
+Click at position: (288, 798)
+Release at position: (288, 798)
+Click at position: (926, 757)
+Release at position: (926, 757)
+Click at position: (1095, 902)
+Release at position: (1095, 902)
+Click at position: (288, 798)
+Release at position: (288, 798)
+Click at position: (926, 757)
+Release at position: (926, 757)
+Click at position: (1095, 902)
+Release at position: (1095, 902)
+Click at position: (291, 791)
+Release at position: (291, 791)
+Click at position: (2681, 833)
+Release at position: (2681, 833)

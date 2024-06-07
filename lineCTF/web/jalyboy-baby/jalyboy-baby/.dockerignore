@@ -1,0 +1,8 @@
+.git
+.cache
+.env
+
+docker-compose.yml
+Dockerfile
+
+*.md

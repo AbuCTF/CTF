@@ -1,0 +1,10 @@
+version: '3'
+services:
+  graphql-101:
+    container_name: graphql-101
+    build: .
+    restart: always
+    ports:
+      - "0.0.0.0:7654:4000"
+    environment:
+      FLAG: LINE-CTF{FAKE-FLAG}

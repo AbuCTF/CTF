@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GraphQL 101</title>
+  <style>
+    body {
+      background-color: bisque;
+    }
+    main {
+      background-color: antiquewhite;
+      padding: 2%;
+      margin: auto;
+      width: 50%;
+      margin-top: 13vh;
+      text-align: center;
+    }
+    .username {
+      margin-bottom: 20px;
+    }
+    input {
+      padding: 5px;
+      border-radius: 2px;
+    }
+    button {
+      margin-left: 10px;
+      cursor: pointer;
+      background-color: white;
+      border-radius: 3px;
+      padding: 6px;
+    }
+    div {
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <script>
+    function clean(s) { return s.replaceAll(' ', '').replaceAll('\n', '').replaceAll('\t', ''); }
+    async function checkOtp(index) {
+      const username = document.getElementById('username').value;
+      const otp = document.getElementById(`otp-${index}`).value;
+      const body = clean(JSON.stringify({
+        query: clean(`query {
+          otp(
+            u: "${username}", 
+            i: ${index}, 
+            otp: "${otp}"
+          )
+        }`),
+        variables: {}
+      }));
+      return fetch('/graphql', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body,
+      })
+        .then((res) => res.json())
+        .then((result) => {
+          const msg = result.data.otp;
+          alert(msg);
+        });
+      }
+  </script>
+
+  <main>
+    <h1>GraphQL 101</h1>
+    <div class="username">
+      Username:
+      <input id="username">
+    </div>
+
+    <div id="otps">
+    </div>
+    <script>
+      const NUM_CHALLENGE = 40;
+      let html = '';
+      for (let i = 0; i < NUM_CHALLENGE; ++i) {
+        html += `
+        <div>
+          Otp ${i}: 
+          <input id="otp-${i}"><button onclick="checkOtp(${i})">Check otp ${i}</button>
+        </div>
+        `;
+      }
+      document.getElementById('otps').innerHTML = html;
+    </script>
+    <button style="margin-top: 20px" onclick="location.href = '/admin'">Get flag</button>
+  </main>
+  
+
+</body>
+</html>

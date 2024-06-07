@@ -1,0 +1,4 @@
+For the challenge CHECKIN from GeekCON, 
+
+we are provided with a discord link and opening that we get the flag from the #announcements channel.
+AVSS{Experience_the_Evaluation_of_Security_through_Exploitation}

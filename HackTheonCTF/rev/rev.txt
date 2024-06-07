@@ -1,0 +1,194 @@
+
+undefined8 main(void)
+
+{
+  long lVar1;
+  time_t tVar2;
+  void *__ptr;
+  long in_FS_OFFSET;
+  
+  lVar1 = *(long *)(in_FS_OFFSET + 0x28);
+  tVar2 = time((time_t *)0x0);
+  srand((uint)tVar2);
+  __ptr = (void *)key(PTR_s_THIS_IS_FAKE_FLAG!!!_00104010,5);
+  printf("encryptedFlag @ %s\n",__ptr);
+  free(__ptr);
+  if (*(long *)(in_FS_OFFSET + 0x28) == lVar1) {
+    return 0;
+  }
+                    /* WARNING: Subroutine does not return */
+  __stack_chk_fail();
+}
+
+char * key(char *param_1,int param_2)
+
+{
+  long lVar1;
+  size_t sVar2;
+  void *__ptr;
+  void *__ptr_00;
+  void *__ptr_01;
+  long in_FS_OFFSET;
+  char *local_18;
+  
+  lVar1 = *(long *)(in_FS_OFFSET + 0x28);
+  sVar2 = strlen(param_1);
+  if ((int)sVar2 % param_2 == 0) {
+    __ptr = (void *)variableA(param_2);
+    printf("key @ %s\n",__ptr);
+    __ptr_00 = (void *)variableB(param_1,sVar2 & 0xffffffff);
+    __ptr_01 = (void *)variableB(__ptr,param_2);
+    variableC(__ptr_00,__ptr_01,sVar2 & 0xffffffff,param_2);
+    variableD(__ptr_00,__ptr_01,sVar2 & 0xffffffff,param_2);
+    local_18 = (char *)variableE(__ptr_00,sVar2 & 0xffffffff);
+    free(__ptr_00);
+    free(__ptr_01);
+    free(__ptr);
+  }
+  else {
+    local_18 = "";
+  }
+  if (*(long *)(in_FS_OFFSET + 0x28) == lVar1) {
+    return local_18;
+  }
+                    /* WARNING: Subroutine does not return */
+  __stack_chk_fail();
+}
+void * variableA(int param_1)
+
+{
+  long lVar1;
+  int iVar2;
+  size_t sVar3;
+  void *pvVar4;
+  long in_FS_OFFSET;
+  int local_34;
+  
+  lVar1 = *(long *)(in_FS_OFFSET + 0x28);
+  sVar3 = strlen("ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789");
+  pvVar4 = malloc((long)(param_1 + 1));
+  for (local_34 = 0; local_34 < param_1; local_34 = local_34 + 1) {
+    iVar2 = rand();
+    *(char *)((long)pvVar4 + (long)local_34) =
+         "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"[iVar2 % (int)sVar3];
+  }
+  *(undefined *)((long)pvVar4 + (long)param_1) = 0;
+  if (*(long *)(in_FS_OFFSET + 0x28) == lVar1) {
+    return pvVar4;
+  }
+                    /* WARNING: Subroutine does not return */
+  __stack_chk_fail();
+}
+void * variableB(long param_1,int param_2)
+
+{
+  long lVar1;
+  void *pvVar2;
+  long in_FS_OFFSET;
+  int local_2c;
+  
+  lVar1 = *(long *)(in_FS_OFFSET + 0x28);
+  pvVar2 = malloc((long)param_2 << 2);
+  for (local_2c = 0; local_2c < param_2; local_2c = local_2c + 1) {
+    *(int *)((long)pvVar2 + (long)local_2c * 4) = (int)*(char *)(param_1 + local_2c);
+  }
+  if (*(long *)(in_FS_OFFSET + 0x28) == lVar1) {
+    return pvVar2;
+  }
+                    /* WARNING: Subroutine does not return */
+  __stack_chk_fail();
+}
+void variableC(long param_1,long param_2,int param_3,int param_4)
+
+{
+  long lVar1;
+  long in_FS_OFFSET;
+  int local_2c;
+  
+  lVar1 = *(long *)(in_FS_OFFSET + 0x28);
+  for (local_2c = 0; local_2c < param_3; local_2c = local_2c + 1) {
+    *(uint *)(param_1 + (long)local_2c * 4) =
+         *(uint *)(param_1 + (long)local_2c * 4) ^
+         *(uint *)(param_2 + (long)(local_2c % param_4) * 4);
+  }
+  if (*(long *)(in_FS_OFFSET + 0x28) == lVar1) {
+    return;
+  }
+                    /* WARNING: Subroutine does not return */
+  __stack_chk_fail();
+}
+
+void variableD(long param_1,long param_2,int param_3,int param_4)
+
+{
+  undefined4 uVar1;
+  long lVar2;
+  void *__ptr;
+  void *__ptr_00;
+  long in_FS_OFFSET;
+  int local_54;
+  int local_50;
+  int local_4c;
+  int local_3c;
+  int local_38;
+  int local_34;
+  
+  lVar2 = *(long *)(in_FS_OFFSET + 0x28);
+  __ptr = malloc((long)param_4 << 2);
+  for (local_34 = 0; local_34 < param_4; local_34 = local_34 + 1) {
+    *(int *)((long)__ptr + (long)local_34 * 4) = local_34;
+  }
+  for (local_38 = 0; local_3c = local_38, local_38 < param_4; local_38 = local_38 + 1) {
+    while (local_3c = local_3c + 1, local_3c < param_4) {
+      if (*(int *)(param_2 + (long)local_3c * 4) < *(int *)(param_2 + (long)local_38 * 4)) {
+        uVar1 = *(undefined4 *)(param_2 + (long)local_38 * 4);
+        *(undefined4 *)(param_2 + (long)local_38 * 4) =
+             *(undefined4 *)(param_2 + (long)local_3c * 4);
+        *(undefined4 *)(param_2 + (long)local_3c * 4) = uVar1;
+        uVar1 = *(undefined4 *)((long)__ptr + (long)local_38 * 4);
+        *(undefined4 *)((long)__ptr + (long)local_38 * 4) =
+             *(undefined4 *)((long)__ptr + (long)local_3c * 4);
+        *(undefined4 *)((long)__ptr + (long)local_3c * 4) = uVar1;
+      }
+    }
+  }
+  __ptr_00 = malloc((long)param_3 << 2);
+  for (local_4c = 0; local_4c < param_3; local_4c = param_4 + local_4c) {
+    for (local_50 = 0; local_50 < param_4; local_50 = local_50 + 1) {
+      *(undefined4 *)((long)__ptr_00 + (long)(local_4c + local_50) * 4) =
+           *(undefined4 *)
+            (param_1 + (long)(local_4c + *(int *)((long)__ptr + (long)local_50 * 4)) * 4);
+    }
+  }
+  for (local_54 = 0; local_54 < param_3; local_54 = local_54 + 1) {
+    *(undefined4 *)(param_1 + (long)local_54 * 4) =
+         *(undefined4 *)((long)__ptr_00 + (long)local_54 * 4);
+  }
+  free(__ptr_00);
+  free(__ptr);
+  if (*(long *)(in_FS_OFFSET + 0x28) != lVar2) {
+                    /* WARNING: Subroutine does not return */
+    __stack_chk_fail();
+  }
+  return;
+}
+void * variableE(long param_1,int param_2)
+
+{
+  long lVar1;
+  void *pvVar2;
+  long in_FS_OFFSET;
+  int local_2c;
+  
+  lVar1 = *(long *)(in_FS_OFFSET + 0x28);
+  pvVar2 = malloc((long)(param_2 * 2 + 1));
+  for (local_2c = 0; local_2c < param_2; local_2c = local_2c + 1) {
+    sprintf((char *)((long)pvVar2 + (long)(local_2c << 1)),"%02x",
+            (ulong)*(uint *)(param_1 + (long)local_2c * 4));
+  }
+  if (*(long *)(in_FS_OFFSET + 0x28) == lVar1) {
+    return pvVar2;
+  }
+                    /* WARNING: Subroutine does not return */
+  __stack_chk_fail();
+}

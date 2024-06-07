@@ -1,0 +1,37 @@
+ w3 = Web3(Web3.HTTPProvider('http://83.136.252.82:54877'))
+
+contract = w3.eth.contract(address='0x5278e3A154B848966877a952922324848d6c9923', abi=...)
+
+[
+	{
+		"inputs": [],
+		"stateMutability": "payable",
+		"type": "constructor"
+	},
+	{
+		"inputs": [],
+		"name": "TARGET",
+		"outputs": [
+			{
+				"internalType": "contract RussianRoulette",
+				"name": "",
+				"type": "address"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "isSolved",
+		"outputs": [
+			{
+				"internalType": "bool",
+				"name": "",
+				"type": "bool"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	}
+]

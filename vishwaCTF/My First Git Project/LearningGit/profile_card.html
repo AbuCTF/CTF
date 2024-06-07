@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Card</title>
+    <link href="https://fonts.googleapis.com/css2?family=Caveat&family=Libre+Baskerville&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+    <style>
+
+        * {
+            font-family: 'Libre Baskerville', serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: gainsboro;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        a{
+            background: transparent;
+            border: none;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            max-width: 450px;
+            height: 500px;
+            background-color: white;
+            border-radius: 16px;
+            position: relative;
+            flex: 1;        
+        }
+
+        .up {
+            display: inline-block;
+            height: 175px;
+            border-radius: 16px 16px 0px 0px;
+            background-color: rgb(36, 88, 185);
+            margin-bottom: 50px;
+            display: flex;
+            justify-content: center;
+        }
+
+        .circle {
+            position: absolute;
+            top: 35px;
+            border-radius: 50%;
+            
+        }
+        
+        .circle1 {
+            height: 166px;
+            width: 166px;
+            border: solid white 3px;
+            z-index: 2;
+            background-image: url("./croping62\ \(1\).png");
+            object-fit: cover;
+        }
+        .circle2 {
+            top: 31px;
+            height: 178px;
+            width: 178px;
+            background-color: rgb(36, 88, 185);
+            z-index: 1;
+        }
+
+        .down {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 15px;
+        }
+
+        h1 {
+            font-size: 1.3rem;
+            letter-spacing: 0.3px;
+        }
+
+        p {
+            letter-spacing: 0.3px;
+            font-size: 1rem;
+        }
+
+        .social {
+            display: flex;
+            gap: 20px;
+        }
+
+        
+
+        .social a img {
+            height: 30px;
+        }
+
+        .connect {
+            display: flex;
+            gap: 45px;
+            margin: 15px 0px;
+        }
+        .connect button {
+            height: 35px;
+            width: 110px;
+            background-color: rgb(36, 88, 185);
+            color: white;
+            border: none;
+            border-radius: 20px;
+        }
+
+        .reviews {
+            display: flex;
+            gap: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="up">
+            <div class="circle circle1"></div>
+            <div class="circle circle2"></div>
+        </div>
+        <div class="down">
+            <h1>Aditya Jasoriya</h1>
+            <p>Student</p>
+            <div class="social">
+                <div id="fb"><a href=""><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAgVBMVEUAAAAQcP8IZf8IZ/8JZv8HZf8IZv8IZv8IaP8JZ/8HZv8IZv8FZf8YcP9FjP+TvP/g7P/////R4/9Vlf8QYP+Es/9kn/8IZv8nef8JZf8AYP/v9f/Q4v/B2P9GjP8HZv+yz//Q4/83g/8HZv/g6/+Dsv8HZf/n7//////////e6//ZLyHjAAAAK3RSTlMAEGCfz+//XyCQj98w/////////xD//6D/kBD/////7////8///5Cgz+/vONkvXQAAAPJJREFUeAF9kkUCwzAMBGVSGMrM3P//rxBaB+e6s0YREFJpw2y0cgS1cT3DQLmNWPjcwK/XA24RWIuEdg4j7OtHUX0NYedxko5+jCeZMc0En8FsVDDHSd1WDoFdIlogX46awopozWA+ythsd7s9ZxymJBkcs3wcMZC0YHDKhDNbKLowuGYC21zINIWUbQ7EwwJT7YogqgTTKaTY4tIp7HDIRadwwzVlKVyv11HG9cekFBxam8FbTInuQ4LCd3cL2Uzd+4UV/VkHfUIgMLRdQuBi7JsCxh5rQEAfrO9NYSWojruwBOOhDoR8PF+j0fuipNX+AmbCIviMIiwCAAAAAElFTkSuQmCC" alt="">
+                </a href = ""></div>
+                <div id="tw"><a href=""><img src="https://i0.wp.com/bodybeyondlimits.com.au/wp-content/uploads/2022/07/instagram-circle-icon-png-4.png?ssl=1" alt=""></a href = ""></div>
+                <div id="ig">
+                    <a href = "">
+                        <img src="https://cdn.iconscout.com/icon/free/png-256/free-twitter-1865886-1581902.png" alt="">
+                    </a href = "">
+                </div>
+                <div id="yt">
+                    <a href="">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/YouTube_social_red_circle_%282017%29.svg/2048px-YouTube_social_red_circle_%282017%29.svg.png" alt="">
+                    </a href="">
+                </div>
+            </div>
+            <div class="connect">
+                <button id="subscribe">
+                    Subscribe
+                </button>
+                <button id="msg">
+                    Message
+                </button>
+            </div>
+            <div class="reviews">
+                <div id="lk"><i class="fa fa-heart-o" aria-hidden="true"></i> 60k</div>
+                <div>|</div>
+                <div id="cmt"><i class="fa fa-comment-o" aria-hidden="true"></i> 20k</div>
+                <div>|</div>
+                <div id="shr"><i class="fa fa-share" aria-hidden="true"></i> 12k</div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,13 @@
+29 deg 11' 6.00" N, 81 deg 4' 13.00" W - Dbis, Daytona Beach, FL 32114, USA
+45 deg 37' 2.00" N, 9 deg 16' 53.00" E - Viale di Vedano, 5, 20900 Monza MB, Italy
+35 deg 22' 23.00" N, 138 deg 55' 36.00" E - Omika, Oyama, Sunto District, Shizuoka 410-1308, Japan
+43 deg 21' 45.00" N, 71 deg 27' 38.00" W - 1122 NH-106, Loudon, NH 03307, United States
+34 deg 54' 9.00" N, 110 deg 10' 7.00" W - 109 02-145A, Holbrook, AZ 86025, United States
+
+29°11'6.00"N, 81°4'13.00"W -> 29°11'6.00"N 81°4'13.00"W
+45°37'2.00"N, 9°16'53.00"E -> 45°37'2.00"N 9°16'53.00"E
+35°22'23.00"N, 138°55'36.00"E -> 35°22'23.00"N 138°55'36.00"E
+43°21'45.00"N, 71°27'38.00"W -> 43°21'45.00"N 71°27'38.00"W
+34°54'9.00"N, 110°10'7.00"W -> 34°54'9.00"N 110°10'7.00"W
+
+texsaw{daytonainternationalspeedwaymonzafujispeedwaynewhampshiremotorspeedwaywigwammotel}

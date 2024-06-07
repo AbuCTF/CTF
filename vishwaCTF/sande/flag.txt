@@ -1,0 +1,23 @@
+Original matrix:
+V       i       s       h       w       a
+d       2       3       y       3       C
+n       2       k       0       v       T
+4       4       }       v       1       F
+_       m       _       h       c       {
+y       3       2       d       n       4
+Encrypted:
+V       h       q       h       w       a
+d       2       3       y       3       C
+l       2       o       0       p       S
+4       4       }       v       1       N
+[       m       Y       h       k       {
+y       3       2       d       g       4
+Encrypted:
+86      104     113     104     119     97
+100     50      51      121     51      67
+108     50      111     48      112     83
+52      52      125     118     49      78
+91      109     89      104     107     123
+121     51      50      100     103     52
+
+VishwaCTF{4nd23y_4nd23y3v1ch_m42k0v}

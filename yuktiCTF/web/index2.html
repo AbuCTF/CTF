@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        /* Basic Reset */
+        body, h1, h2, h3, h4, p, figure, blockquote, dl, dd {
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: 'Roboto', sans-serif;
+            overflow-x: hidden;
+            font-size: 16px;
+            background: #f0f2f5;
+        }
+
+    /* Sidebar Enhancements for Aesthetic Appeal */
+#sidebar {
+    z-index: 1000;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 250px;
+    height: 100%;
+    background: #293241; /* Updated color for a modern, sleek look */
+    color: #f0f2f5;
+    transition: all 0.3s;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* Deeper shadow for a subtle 3D effect */
+}
+
+#sidebar header {
+    background-color: #3d5a80; /* A contrasting shade for the header */
+    padding: 20px;
+    text-align: center;
+    border-bottom: 1px solid #00000022; /* Soft separator */
+}
+
+#sidebar .nav a {
+    color: #f0f2f5;
+    padding: 15px 20px;
+    display: block;
+    transition: all 0.2s ease-in-out;
+    text-decoration: none;
+    border-bottom: 1px solid #00000022; /* Subtle separators for a clean look */
+}
+
+#sidebar .nav a:hover {
+    background: #ee6c4d; /* A vibrant color for hover state */
+    color: #ffffff;
+    padding-left: 30px; /* Dynamic effect to indicate selection */
+}
+
+#sidebar .nav a i {
+    margin-right: 10px;
+}
+
+/* Improved Aesthetic for Active Links */
+#sidebar .nav a.active {
+    background-color: #ee6c4d;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+/* Adjustments for Content Area */
+#content {
+    margin-left: 250px;
+    padding: 20px;
+    background: #f0f2f5; /* Ensures content area complements the sidebar */
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    #sidebar {
+        margin-left: -250px; /* Sidebar hides on smaller screens */
+    }
+    #sidebar.active {
+        margin-left: 0; /* Sidebar reappears on toggle */
+    }
+    #content {
+        margin-left: 0;
+    }
+}
+
+        /* Card Styles */
+        .card-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: center;
+        }
+        .card {
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s;
+            width: 300px;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+        }
+        .card img {
+            width: 100%;
+            height: auto;
+        }
+        .container {
+            padding: 15px;
+        }
+
+        /* Form Styles */
+        form {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+        input[type="text"], input[type="submit"] {
+            width: 40%;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            cursor: pointer;
+        }
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+
+        /* Button and Input Enhancements */
+        button[type="button"], input[type="submit"] {
+            transition: background-color 0.3s ease;
+        }
+        button[type="button"]:hover, input[type="submit"]:hover {
+            opacity: 0.8;
+        }
+
+        .flag1 {
+        font-size: 1rem;
+        color: #333;
+        background-color: #f8f9fa;
+        border-left: 5px solid #007bff;
+        padding: 10px 15px;
+        margin: 10px 0;
+        border-radius: 5px;
+    }
+    /* Header Styles */
+header {
+    background-color: #263238; /* Adjust the background color as needed */
+    padding: 20px;
+    text-align: center;
+}
+
+/* Dashboard Link Styles */
+.dashboard-link {
+    color: #CFD8DC; /* This is a light grey color; adjust as needed */
+    text-decoration: none; /* Removes underline */
+    font-size: 1.4em;
+}
+
+/* Optional: Add a hover effect for the link */
+.dashboard-link:hover {
+    color: #ECEFF1; /* Lighter grey for hover effect */
+}
+
+    </style>
+</head>
+<body>
+    <div id="viewport">
+        <!-- Sidebar -->
+        <div id="sidebar">
+            <header>
+                <a href="#" class="dashboard-link">Mystery 013</a>
+            </header>
+
+            <div class="nav">
+                <a href="/dash"><i class="fas fa-home"></i> Dashboard</a>
+                <a href="/EmplOye12"><i class="fas fa-user-friends"></i> Employees</a>
+                <a href="/case13"><i class="fas fa-puzzle-piece"></i> Cases</a>
+                <a href="/logout"><i class="fas fa-sign-out-alt"></i> Logout</a>
+            </div>
+        </div>
+
+        <!-- Content -->
+        <div id="content">
+
+
+
+    <div class="card-container">
+        <!-- Card 1 -->
+        <div class="card">
+            <img src="alex.jpeg" alt="User 1">
+            <div class="container">
+                <h4><b>John Doe</b></h4>
+                <p>Role: Software Engineer</p>
+                <p>DOB: 1990-01-01</p>
+                <p>A passionate software engineer with over 10 years of experience in developing scalable applications.</p>
+            </div>
+        </div>
+
+        <!-- Card 2 -->
+        <div class="card">
+            <img src="ee1.jpeg" alt="User 2">
+            <div class="container">
+                <h4><b>Jane Doe</b></h4>
+                <p>Role: Product Manager</p>
+                <p>DOB: 1988-02-14</p>
+                <p>Experienced in leading cross-functional teams to deliver user-centric solutions.</p>
+            </div>
+        </div>
+
+        <!-- Card 3 -->
+        <div class="card">
+            <img src="ee2.jpeg" alt="User 3">
+            <div class="container">
+                <h4><b>Alex Smith</b></h4>
+                <p>Role: Data Scientist</p>
+                <p>DOB: 1992-03-18</p>
+                <p>Specializes in machine learning and data mining to drive strategic decisions.</p>
+            </div>
+        </div>
+
+        <!-- Card 4 -->
+        <div class="card">
+            <img src="e2.jpeg" alt="User 4">
+            <div class="container">
+                <h4><b>Sarah Johnson</b></h4>
+                <p>Role: UX Designer</p>
+                <p>DOB: 1989-04-22</p>
+                <p>Focuses on creating intuitive interfaces for enhanced user experiences.</p>
+            </div>
+        </div>
+
+        <!-- Card 5 -->
+        <div class="card">
+            <img src="m4.jpeg" alt="User 5">
+            <div class="container">
+                <h4><b>Mike Brown</b></h4>
+                <p>Role: Cybersecurity Expert</p>
+                <p>DOB: 1985-05-30</p>
+                <p>Expert in protecting systems and networks from digital attacks and hacking</p>
+            </div>
+        </div>
+
+        <!-- Card 6 -->
+        <div class="card">
+            <img src="wm1.jpeg" alt="User 6">
+            <div class="container">
+                <h4><b>Linda Green</b></h4>
+                <p>Role: Marketing Director</p>
+                <p>DOB: 1990-06-15</p>
+                <p>Leads marketing strategy to drive brand awareness and sales growth.</p>
+            </div>
+        </div>
+
+        <!-- Card 7 -->
+        <div class="card">
+            <img src="men.jpeg" alt="User 7">
+            <div class="container">
+                <h4><b>Chris White</b></h4>
+                <p>Role: IT Support Specialist</p>
+                <p>DOB: 1987-07-19</p>
+                <p>Provides support for all IT-related issues in the organization.</p>
+            </div>
+        </div>
+
+        <!-- Card 8 -->
+        <div class="card">
+            <img src="men2.jpeg" alt="User 8">
+            <div class="container">
+                <h4><b>Wilson</b></h4>
+                <p>Role: Content Writer</p>
+                <p>DOB: 1991-08-25</p>
+                <p>Creates engaging content to captivate audiences and promote brands.</p>
+            </div>
+        </div>
+
+        <!-- Card 9 -->
+        <div class="card">
+            <img src="men3.jpeg" alt="User 9">
+            <div class="container">
+                <h4><b>Oliver Martinez</b></h4>
+                <p>Role: Business Analyst</p>
+                <p>DOB: 1986-09-17</p>
+                <p>Analyzes business processes and recommends improvements.</p>
+            </div>
+        </div>
+
+        <!-- Card 10 -->
+        <div class="card">
+            <img src="g1.jpeg" alt="User 10">
+            <div class="container">
+                <h4><b>Isabella Garcia</b></h4>
+                <p>Role: HR Manager</p>
+                <p>DOB: 1988-10-29</p>
+                <p>Manages recruitment, training, and employee relations.</p>
+            </div>
+        </div>
+
+        <!-- Card 11 -->
+        <div class="card">
+            <img src="men22.jpeg" alt="User 11">
+            <div class="container">
+                <h4><b>Lee</b></h4>
+                <p>Role: Financial Analyst</p>
+                <p>DOB: 1984-11-12</p>
+                <p>Focuses on financial planning, analysis, and investment strategies.</p>
+            </div>
+        </div>
+
+        <!-- Card 12 -->
+        <div class="card">
+            <img src="men11.jpeg" alt="User 12">
+            <div class="container">
+                <h4><b>Charlotte Thomas</b></h4>
+                <p>Role: Operations Manager</p>
+                <p>DOB: 1987-12-03</p>
+                <p>Oversees the organization's operations to ensure efficiency and effectiveness.</p>
+            </div>
+        </div>
+    </div>
+
+
+        </div>
+    </div>
+</body>
+</html>A

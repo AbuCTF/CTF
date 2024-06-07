@@ -1,0 +1,57 @@
+Challenges​‌‌​​‌​‌​‌‌​​‌‌​​‌‌​​‌​​​​‌ at‌​‌​‌​​‌‌​‌​​​​‌‌​‌​​​‌‌​​‌ Yukthi​​​​‌‌​‌​‌​​‌‌​​​‌​​‌‌​​​‌​ CTF​‌‌​‌‌‌​​‌‌‌​​​​‌‌​​​​‌​​‌‌ are​​‌‌​‌‌​​‌​​​​‌‌​‌​​​​‌‌​‌​ tiered​​​‌‌​​‌​​‌‌​​​‌​​‌‌​​​‌‌​​ to‌‌​​​‌​​‌‌​​​​​​‌‌​‌​‌​​‌‌​ cater​‌​​​‌‌​‌‌​​​‌‌​‌‌​​​‌‌​‌​​ to​​‌‌​‌‌​​‌‌​​​​‌​‌‌​​​‌​​‌‌ varying​​‌​​​​‌‌​​‌‌​​‌​‌‌‌​​‌‌​‌‌ skill‌​​‌‌​‌​​‌​‌‌​‌‌‌​​‌‌​‌​‌​​‌‌​​​​‌ levels.
+
+Do you know: The​‌‌​​‌​‌​‌‌​​‌‌​​‌‌​​‌​​​ competition's​‌‌​‌​‌​​‌‌​‌​​​​‌‌​‌​​​‌ design‌​​‌​​​​‌‌​‌​‌​​‌‌​​​‌​​‌ reflects‌​​​‌​​‌‌​‌‌‌​​‌‌‌​​​​‌‌​ the​​​‌​​‌‌​​‌‌​‌‌​​‌​​​​‌‌​ dynamic‌​​​​‌‌​‌​​​​‌‌​​‌​​‌‌​​​ and‌​​‌‌​​​‌‌​​‌‌​​​‌​​‌‌​​​ evolving​​​‌‌​‌​‌​​‌‌​​‌​​​‌‌​‌‌​ nature​​‌‌​‌‌​​​‌‌​‌​​​​‌‌​‌‌​​ of‌‌​​​​‌​‌‌​​​‌​​‌‌​​‌​​​​ the‌‌​​‌‌​​‌​‌‌‌​​‌‌​‌‌‌​​‌‌ cybersecurity​‌​​‌​‌‌​‌‌‌​​‌‌​‌​‌​​‌‌​​​​‌ field.
+
+Internship​‌‌​​‌​‌​‌‌​​‌‌​​‌‌​​‌​​​​‌‌​‌​‌​ opportunities​‌‌​‌​​​​‌‌​‌​​​‌‌​​‌​​​​‌‌​‌​‌​​ are‌‌​​​‌​​‌‌​​​‌​​‌‌​‌‌‌​​‌‌‌​​​​‌‌ available​​​​‌​​‌‌​​‌‌​‌‌​​‌​​​​‌‌​‌​​​​‌‌ for​‌​​​​‌‌​​‌​​‌‌​​​‌​​‌‌​​​‌‌​​‌‌​ outstanding​​‌​​‌‌​​​​​​‌‌​‌​‌​​‌‌​​‌​​​‌‌​‌ performers‌​​​‌‌​‌‌​​​‌‌​‌​​​​‌‌​‌‌​​‌‌​​​​ at‌​‌‌​​​‌​​‌‌​​‌​​​​‌‌​​‌‌​​‌​‌‌‌​ Yukthi​‌‌​‌‌‌​​‌‌​‌​​‌​‌‌​‌‌‌​​‌‌​‌​‌​​‌‌​​​​‌ CTF.
+
+
+space = -
+break = .
+
+
+0101000100100101000101000101000100000100
+
+1001001000101001000001010010000101000100
+
+0000101001001000100000100010100001000
+
+
+
+
+
+
+#!/usr/bin/python
+import re
+h = open ('' )
+c = [ x[: -1] for x in h.readlines() ]
+h. close ( )
+flag = []
+for line in c:
+	num = re. findall(r"(\s+)", line)
+	if num:
+		num = int (*'. join (num) replace(' ', '0'). replace('\t','1'),2)
+		if num in range (255):
+			flag. append (chr (num) )
+print "'. join(flag)
+
+
+
+1. Address 1: 0x6BA8CCD6A4da0528d7B27926B1bb3e9CE725c574 - NO TRANSACTION
+2. Address 2: 0x6CA8DBD6B5ea0538d7C28027C2cc3f9DF826d675 - NO/ RECOGNIZE
+3. Address 3: 0x6DA8EBD7C6fb0548d7D28128D3dd4g0EG827e676 - NO MATCH
+4. Address 4: 0x6FA9GCF8E8hd0568d7F2832AF5ff6i2GI029g678 - NO
+5. Address 5: 0x6AA8CBD6B3da0528d7B27926B0ba3e9BE724c573 - NO TRANSACTION
+6. Address 6: 0x6EA8FBE7D7gc0558d7E2gjkmHBNUUFBBknnJ87 - NO
+7. Address 7: 0x6A8FBE7D7gc0558d7E28229E4ee5h1FH928f632 - NO
+8. Address 8: 0x6GA8FBE7D7gc0558d7E28229E4ee5h1F123321k90 - NO
+9. Address 9: 0x6KA8FBE7D7gc0558d7E28229E4ee5h1FH321k09 - NO MATCH
+10. Address 10: 0x6EA89865utoijrk558d7E28229E4eejk87ok655 - NO MATCH
+
+0xa6Dc508611A52Ae029ccB696eFb9EacF2768eBD8 - DEGIT
+
+0xaa25Aa7a19f9c426E07dee59b12f944f4d9f1DD3 - SENDER
+0xaa25Aa7a19f9c426E07dee59b12f944f4d9f1DD3
+0xaa25Aa7a19f9c426E07dee59b12f944f4d9f1DD3
+
+
+hydra -L output.txt -p output.txt 10.11.15.29:84/dash tcp

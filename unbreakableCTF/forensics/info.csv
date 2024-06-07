@@ -1,0 +1,1646 @@
+﻿Level,Date and Time,Source,Event ID,Task Category
+Information,16-02-2019 15:36:38,Microsoft-Windows-Sysmon,1,(1),"The description for Event ID 1 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:06:38.833
+EV_RenderedValue_2.00
+3820
+C:\Windows\System32\taskhost.exe
+6.1.7600.16385 (win7_rtm.090713-1255)
+Host Process for Windows Tasks
+Microsoft® Windows® Operating System
+Microsoft Corporation
+taskhost.exe $(Arg0)
+C:\Windows\system32\
+NT AUTHORITY\LOCAL SERVICE
+EV_RenderedValue_12.00
+997
+0
+System
+SHA1=D37708435E6F6CF2FD69B791FA4BE3460329B47D
+EV_RenderedValue_17.00
+516
+C:\Windows\System32\services.exe
+C:\Windows\system32\services.exe
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:36:03,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:06:01.954
+EV_RenderedValue_2.00
+4
+System
+NT AUTHORITY\SYSTEM
+tcp
+False
+False
+127.0.0.1
+PC01.example.corp
+5357
+wsd
+False
+127.0.0.1
+PC01.example.corp
+49189
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:36:03,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:06:01.954
+EV_RenderedValue_2.00
+952
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\LOCAL SERVICE
+tcp
+True
+False
+127.0.0.1
+PC01.example.corp
+49189
+False
+127.0.0.1
+PC01.example.corp
+5357
+wsd
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:36:02,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:06:01.480
+EV_RenderedValue_2.00
+1608
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\LOCAL SERVICE
+udp
+True
+False
+127.0.0.1
+PC01.example.corp
+3702
+ws-discovery
+False
+127.0.0.1
+PC01.example.corp
+61401
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:36:02,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:06:00.653
+EV_RenderedValue_2.00
+952
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\LOCAL SERVICE
+tcp
+True
+False
+10.0.2.17
+PC01.example.corp
+49188
+False
+10.0.2.18
+PC02
+5357
+wsd
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:36:00,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:59.522
+EV_RenderedValue_2.00
+1608
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\LOCAL SERVICE
+udp
+False
+True
+ff02:0:0:0:0:0:0:c
+3702
+ws-discovery
+True
+0:0:0:0:0:0:0:1
+PC01.example.corp
+61402
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:36:00,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:59.522
+EV_RenderedValue_2.00
+952
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\LOCAL SERVICE
+udp
+False
+True
+ff02:0:0:0:0:0:0:c
+3702
+ws-discovery
+True
+0:0:0:0:0:0:0:1
+PC01.example.corp
+61402
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:36:00,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:59.522
+EV_RenderedValue_2.00
+952
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\LOCAL SERVICE
+udp
+False
+True
+ff02:0:0:0:0:0:0:c
+3702
+ws-discovery
+True
+fe80:0:0:0:80ac:4126:fa58:1b81
+PC01.example.corp
+61402
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:36:00,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:59.521
+EV_RenderedValue_2.00
+952
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\LOCAL SERVICE
+udp
+False
+False
+239.255.255.250
+3702
+ws-discovery
+False
+127.0.0.1
+PC01.example.corp
+61401
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:36:00,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:59.521
+EV_RenderedValue_2.00
+1608
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\LOCAL SERVICE
+udp
+False
+False
+239.255.255.250
+3702
+ws-discovery
+False
+127.0.0.1
+PC01.example.corp
+61401
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:59,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:57.864
+EV_RenderedValue_2.00
+4
+System
+NT AUTHORITY\SYSTEM
+tcp
+False
+False
+10.0.2.17
+PC01.example.corp
+139
+netbios-ssn
+False
+10.0.2.18
+PC02
+49187
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:59,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:57.861
+EV_RenderedValue_2.00
+1276
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\NETWORK SERVICE
+udp
+False
+True
+ff02:0:0:0:0:0:1:3
+5355
+llmnr
+True
+fe80:0:0:0:647b:25b7:1cc4:b972
+PC02
+64257
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:59,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:57.861
+EV_RenderedValue_2.00
+1276
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\NETWORK SERVICE
+udp
+True
+False
+10.0.2.17
+PC01.example.corp
+5355
+llmnr
+False
+10.0.2.18
+PC02
+52894
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:59,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:57.860
+EV_RenderedValue_2.00
+1276
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\NETWORK SERVICE
+udp
+False
+False
+224.0.0.252
+5355
+llmnr
+False
+10.0.2.18
+PC02
+52894
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:59,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:57.859
+EV_RenderedValue_2.00
+1276
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\NETWORK SERVICE
+udp
+False
+True
+ff02:0:0:0:0:0:1:3
+5355
+llmnr
+True
+fe80:0:0:0:647b:25b7:1cc4:b972
+PC02
+55679
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:46,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:45.913
+EV_RenderedValue_2.00
+1608
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\LOCAL SERVICE
+udp
+False
+False
+239.255.255.250
+1900
+ssdp
+False
+10.0.2.16
+52122
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:46,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:45.826
+EV_RenderedValue_2.00
+4
+System
+NT AUTHORITY\SYSTEM
+tcp
+False
+False
+10.0.2.17
+PC01.example.corp
+139
+netbios-ssn
+False
+10.0.2.18
+PC02
+49186
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:46,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:45.818
+EV_RenderedValue_2.00
+1276
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\NETWORK SERVICE
+udp
+False
+True
+ff02:0:0:0:0:0:1:3
+5355
+llmnr
+True
+fe80:0:0:0:647b:25b7:1cc4:b972
+PC02
+61049
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:46,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:45.815
+EV_RenderedValue_2.00
+1276
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\NETWORK SERVICE
+udp
+True
+False
+10.0.2.17
+PC01.example.corp
+5355
+llmnr
+False
+10.0.2.18
+PC02
+62053
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:46,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:45.815
+EV_RenderedValue_2.00
+1276
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\NETWORK SERVICE
+udp
+False
+False
+224.0.0.252
+5355
+llmnr
+False
+10.0.2.18
+PC02
+62053
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:46,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:45.814
+EV_RenderedValue_2.00
+1276
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\NETWORK SERVICE
+udp
+False
+True
+ff02:0:0:0:0:0:1:3
+5355
+llmnr
+True
+fe80:0:0:0:647b:25b7:1cc4:b972
+PC02
+59302
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:34,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:33.776
+EV_RenderedValue_2.00
+4
+System
+NT AUTHORITY\SYSTEM
+tcp
+False
+False
+10.0.2.17
+PC01.example.corp
+139
+netbios-ssn
+False
+10.0.2.18
+PC02
+49185
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:34,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:33.769
+EV_RenderedValue_2.00
+1276
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\NETWORK SERVICE
+udp
+False
+True
+ff02:0:0:0:0:0:1:3
+5355
+llmnr
+True
+fe80:0:0:0:647b:25b7:1cc4:b972
+PC02
+62259
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:34,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:33.767
+EV_RenderedValue_2.00
+1276
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\NETWORK SERVICE
+udp
+True
+False
+10.0.2.17
+PC01.example.corp
+5355
+llmnr
+False
+10.0.2.18
+PC02
+51695
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:34,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:33.767
+EV_RenderedValue_2.00
+1276
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\NETWORK SERVICE
+udp
+False
+False
+224.0.0.252
+5355
+llmnr
+False
+10.0.2.18
+PC02
+51695
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:34,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:33.766
+EV_RenderedValue_2.00
+1276
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\NETWORK SERVICE
+udp
+False
+True
+ff02:0:0:0:0:0:1:3
+5355
+llmnr
+True
+fe80:0:0:0:647b:25b7:1cc4:b972
+PC02
+63309
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:26,Microsoft-Windows-Sysmon,5,(5),"The description for Event ID 5 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:26.539
+EV_RenderedValue_2.00
+1908
+C:\Windows\System32\AtBroker.exe
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:26,Microsoft-Windows-Sysmon,5,(5),"The description for Event ID 5 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:26.529
+EV_RenderedValue_2.00
+3204
+C:\Windows\System32\csrss.exe
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:26,Microsoft-Windows-Sysmon,5,(5),"The description for Event ID 5 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:26.519
+EV_RenderedValue_2.00
+2988
+C:\Windows\System32\winlogon.exe
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:26,Microsoft-Windows-Sysmon,5,(5),"The description for Event ID 5 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:26.519
+EV_RenderedValue_2.00
+2920
+C:\Windows\System32\LogonUI.exe
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:26,Microsoft-Windows-Sysmon,1,(1),"The description for Event ID 1 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:26.459
+EV_RenderedValue_2.00
+1908
+C:\Windows\System32\AtBroker.exe
+6.1.7600.16385 (win7_rtm.090713-1255)
+Transitions Accessible technologies between desktops
+Microsoft® Windows® Operating System
+Microsoft Corporation
+atbroker.exe
+C:\Windows\system32\
+PC01\IEUser
+EV_RenderedValue_12.00
+157270
+1
+High
+SHA1=1B376C177C5629C0E620431AF1A9E8C16BF23D53
+EV_RenderedValue_17.00
+456
+C:\Windows\System32\winlogon.exe
+winlogon.exe
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:25,Microsoft-Windows-Sysmon,6,(6),"The description for Event ID 6 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:25.428
+C:\Windows\System32\VBoxDisp.dll
+SHA1=0D14114598EE4A3080B9F9083AE5A3339D429737
+true
+Oracle Corporation
+Valid
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:22,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:21.740
+EV_RenderedValue_2.00
+4
+System
+NT AUTHORITY\SYSTEM
+tcp
+False
+False
+10.0.2.17
+PC01.example.corp
+139
+netbios-ssn
+False
+10.0.2.18
+PC02
+49184
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:22,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:21.738
+EV_RenderedValue_2.00
+4
+System
+NT AUTHORITY\SYSTEM
+udp
+True
+False
+10.0.2.17
+PC01.example.corp
+137
+netbios-ns
+False
+10.0.2.18
+PC02
+137
+netbios-ns
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:22,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:21.734
+EV_RenderedValue_2.00
+1276
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\NETWORK SERVICE
+udp
+True
+False
+10.0.2.17
+PC01.example.corp
+5355
+llmnr
+False
+10.0.2.18
+PC02
+57255
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:22,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:21.733
+EV_RenderedValue_2.00
+1276
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\NETWORK SERVICE
+udp
+False
+False
+224.0.0.252
+5355
+llmnr
+False
+10.0.2.18
+PC02
+57255
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:22,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:21.730
+EV_RenderedValue_2.00
+1276
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\NETWORK SERVICE
+udp
+True
+False
+10.0.2.17
+PC01.example.corp
+5355
+llmnr
+False
+10.0.2.18
+PC02
+61795
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:22,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:21.729
+EV_RenderedValue_2.00
+1276
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\NETWORK SERVICE
+udp
+False
+True
+fe80:0:0:0:647b:25b7:1cc4:b972
+PC02
+49478
+True
+fe80:0:0:0:80ac:4126:fa58:1b81
+PC01.example.corp
+5355
+llmnr
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:22,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:21.729
+EV_RenderedValue_2.00
+1276
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\NETWORK SERVICE
+udp
+False
+False
+224.0.0.252
+5355
+llmnr
+False
+10.0.2.18
+PC02
+61795
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:22,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:21.728
+EV_RenderedValue_2.00
+1276
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\NETWORK SERVICE
+udp
+False
+True
+ff02:0:0:0:0:0:1:3
+5355
+llmnr
+True
+fe80:0:0:0:647b:25b7:1cc4:b972
+PC02
+49478
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:06,Microsoft-Windows-Sysmon,5,(5),"The description for Event ID 5 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:06.971
+EV_RenderedValue_2.00
+3712
+C:\Windows\System32\TSTheme.exe
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:06,Microsoft-Windows-Sysmon,5,(5),"The description for Event ID 5 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:06.400
+EV_RenderedValue_2.00
+3344
+C:\Windows\System32\csrss.exe
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:06,Microsoft-Windows-Sysmon,5,(5),"The description for Event ID 5 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:06.190
+EV_RenderedValue_2.00
+2516
+C:\Windows\System32\winlogon.exe
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:35:06,Microsoft-Windows-Sysmon,5,(5),"The description for Event ID 5 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:05:06.190
+EV_RenderedValue_2.00
+3780
+C:\Windows\System32\LogonUI.exe
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:34:05,Microsoft-Windows-Sysmon,1,(1),"The description for Event ID 1 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:04:05.453
+EV_RenderedValue_2.00
+3712
+C:\Windows\System32\TSTheme.exe
+6.1.7600.16385 (win7_rtm.090713-1255)
+TSTheme Server Module
+Microsoft® Windows® Operating System
+Microsoft Corporation
+C:\Windows\system32\TSTheme.exe -Embedding
+C:\Windows\system32\
+PC01\IEUser
+EV_RenderedValue_12.00
+157270
+1
+High
+SHA1=9F071CE21298C2BA5E47E77A198E3C694EEA9A85
+EV_RenderedValue_17.00
+624
+C:\Windows\System32\svchost.exe
+C:\Windows\system32\svchost.exe -k DcomLaunch
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:34:05,Microsoft-Windows-Sysmon,1,(1),"The description for Event ID 1 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:04:05.232
+EV_RenderedValue_2.00
+2920
+C:\Windows\System32\LogonUI.exe
+6.1.7601.17514 (win7sp1_rtm.101119-1850)
+Windows Logon User Interface Host
+Microsoft® Windows® Operating System
+Microsoft Corporation
+""LogonUI.exe"" /flags:0x0
+C:\Windows\system32\
+NT AUTHORITY\SYSTEM
+EV_RenderedValue_12.00
+999
+3
+System
+SHA1=6FCAD4F6BB71049744D25F2B53A651AC5AA79187
+EV_RenderedValue_17.00
+2988
+C:\Windows\System32\winlogon.exe
+winlogon.exe
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:34:05,Microsoft-Windows-Sysmon,6,(6),"The description for Event ID 6 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:04:05.072
+C:\Windows\System32\VBoxDisp.dll
+SHA1=0D14114598EE4A3080B9F9083AE5A3339D429737
+true
+Oracle Corporation
+Valid
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:34:05,Microsoft-Windows-Sysmon,6,(6),"The description for Event ID 6 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:04:05.072
+C:\Windows\System32\vga.dll
+SHA1=00F4056FD5FE28EC255B4521EE18C700BCF9CEEB
+true
+Microsoft Windows
+Valid
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:34:05,Microsoft-Windows-Sysmon,6,(6),"The description for Event ID 6 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:04:05.072
+C:\Windows\System32\VBoxDisp.dll
+SHA1=0D14114598EE4A3080B9F9083AE5A3339D429737
+true
+Oracle Corporation
+Valid
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:34:05,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:04:04.122
+EV_RenderedValue_2.00
+1276
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\NETWORK SERVICE
+tcp
+False
+False
+127.0.0.2
+3389
+ms-wbt-server
+False
+127.0.0.1
+PC01.example.corp
+49187
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:34:05,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:04:04.122
+EV_RenderedValue_2.00
+2312
+C:\Users\IEUser\Desktop\plink.exe
+PC01\IEUser
+tcp
+True
+False
+127.0.0.1
+PC01.example.corp
+49187
+False
+127.0.0.2
+3389
+ms-wbt-server
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:34:04,Microsoft-Windows-Sysmon,5,(5),"The description for Event ID 5 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:04:04.952
+EV_RenderedValue_2.00
+3064
+C:\Windows\System32\smss.exe
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:34:04,Microsoft-Windows-Sysmon,1,(1),"The description for Event ID 1 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:04:04.952
+EV_RenderedValue_2.00
+2988
+C:\Windows\System32\winlogon.exe
+6.1.7601.17514 (win7sp1_rtm.101119-1850)
+Windows Logon Application
+Microsoft® Windows® Operating System
+Microsoft Corporation
+winlogon.exe
+C:\Windows\system32
+NT AUTHORITY\SYSTEM
+EV_RenderedValue_12.00
+999
+3
+System
+SHA1=B7F3D71BD568CBD15C6C3445042FCBEB322E8072
+EV_RenderedValue_17.00
+3064
+C:\Windows\System32\smss.exe
+\SystemRoot\System32\smss.exe 00000000 0000003c 
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:34:04,Microsoft-Windows-Sysmon,1,(1),"The description for Event ID 1 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:04:04.892
+EV_RenderedValue_2.00
+3204
+C:\Windows\System32\csrss.exe
+6.1.7600.16385 (win7_rtm.090713-1255)
+Client Server Runtime Process
+Microsoft® Windows® Operating System
+Microsoft Corporation
+%%SystemRoot%%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,12288,512 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+C:\Windows\system32
+NT AUTHORITY\SYSTEM
+EV_RenderedValue_12.00
+999
+3
+System
+SHA1=53BC9B2AE89FCAD6197EC519AE588F926C88E460
+EV_RenderedValue_17.00
+3064
+C:\Windows\System32\smss.exe
+\SystemRoot\System32\smss.exe 00000000 0000003c 
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:34:04,Microsoft-Windows-Sysmon,1,(1),"The description for Event ID 1 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:04:04.882
+EV_RenderedValue_2.00
+3064
+C:\Windows\System32\smss.exe
+6.1.7600.16385 (win7_rtm.090713-1255)
+Windows Session Manager
+Microsoft® Windows® Operating System
+Microsoft Corporation
+\SystemRoot\System32\smss.exe 00000000 0000003c 
+C:\Windows\
+NT AUTHORITY\SYSTEM
+EV_RenderedValue_12.00
+999
+3
+System
+SHA1=3F71807933F1BC000D4D0AD6C1FA7393987516E9
+EV_RenderedValue_17.00
+292
+C:\Windows\System32\smss.exe
+\SystemRoot\System32\smss.exe
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:34:04,Microsoft-Windows-Sysmon,1,(1),"The description for Event ID 1 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:04:04.331
+EV_RenderedValue_2.00
+3780
+C:\Windows\System32\LogonUI.exe
+6.1.7601.17514 (win7sp1_rtm.101119-1850)
+Windows Logon User Interface Host
+Microsoft® Windows® Operating System
+Microsoft Corporation
+""LogonUI.exe"" /flags:0x0
+C:\Windows\system32\
+NT AUTHORITY\SYSTEM
+EV_RenderedValue_12.00
+999
+2
+System
+SHA1=6FCAD4F6BB71049744D25F2B53A651AC5AA79187
+EV_RenderedValue_17.00
+2516
+C:\Windows\System32\winlogon.exe
+winlogon.exe
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:34:04,Microsoft-Windows-Sysmon,6,(6),"The description for Event ID 6 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:04:04.231
+C:\Windows\System32\rdpdd.dll
+SHA1=853533AD0FD5081E57931D98CF5B1CD4ACBF0601
+true
+Microsoft Windows
+Valid
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:34:04,Microsoft-Windows-Sysmon,6,(6),"The description for Event ID 6 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:04:04.231
+C:\Windows\System32\rdpdd.dll
+SHA1=853533AD0FD5081E57931D98CF5B1CD4ACBF0601
+true
+Microsoft Windows
+Valid
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:34:04,Microsoft-Windows-Sysmon,5,(5),"The description for Event ID 5 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:04:04.211
+EV_RenderedValue_2.00
+3444
+C:\Windows\System32\smss.exe
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:34:04,Microsoft-Windows-Sysmon,1,(1),"The description for Event ID 1 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:04:04.211
+EV_RenderedValue_2.00
+2516
+C:\Windows\System32\winlogon.exe
+6.1.7601.17514 (win7sp1_rtm.101119-1850)
+Windows Logon Application
+Microsoft® Windows® Operating System
+Microsoft Corporation
+winlogon.exe
+C:\Windows\system32
+NT AUTHORITY\SYSTEM
+EV_RenderedValue_12.00
+999
+2
+System
+SHA1=B7F3D71BD568CBD15C6C3445042FCBEB322E8072
+EV_RenderedValue_17.00
+3444
+C:\Windows\System32\smss.exe
+\SystemRoot\System32\smss.exe 00000000 0000003c 
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:34:04,Microsoft-Windows-Sysmon,1,(1),"The description for Event ID 1 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:04:04.151
+EV_RenderedValue_2.00
+3344
+C:\Windows\System32\csrss.exe
+6.1.7600.16385 (win7_rtm.090713-1255)
+Client Server Runtime Process
+Microsoft® Windows® Operating System
+Microsoft Corporation
+%%SystemRoot%%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,12288,512 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+C:\Windows\system32
+NT AUTHORITY\SYSTEM
+EV_RenderedValue_12.00
+999
+2
+System
+SHA1=53BC9B2AE89FCAD6197EC519AE588F926C88E460
+EV_RenderedValue_17.00
+3444
+C:\Windows\System32\smss.exe
+\SystemRoot\System32\smss.exe 00000000 0000003c 
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:34:04,Microsoft-Windows-Sysmon,1,(1),"The description for Event ID 1 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:04:04.141
+EV_RenderedValue_2.00
+3444
+C:\Windows\System32\smss.exe
+6.1.7600.16385 (win7_rtm.090713-1255)
+Windows Session Manager
+Microsoft® Windows® Operating System
+Microsoft Corporation
+\SystemRoot\System32\smss.exe 00000000 0000003c 
+C:\Windows\
+NT AUTHORITY\SYSTEM
+EV_RenderedValue_12.00
+999
+2
+System
+SHA1=3F71807933F1BC000D4D0AD6C1FA7393987516E9
+EV_RenderedValue_17.00
+292
+C:\Windows\System32\smss.exe
+\SystemRoot\System32\smss.exe
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:33:48,Microsoft-Windows-Sysmon,5,(5),"The description for Event ID 5 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:03:48.068
+EV_RenderedValue_2.00
+2504
+C:\Windows\System32\UI0Detect.exe
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:33:48,Microsoft-Windows-Sysmon,1,(1),"The description for Event ID 1 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:03:48.048
+EV_RenderedValue_2.00
+2504
+C:\Windows\System32\UI0Detect.exe
+6.1.7600.16385 (win7_rtm.090713-1255)
+Interactive services detection
+Microsoft® Windows® Operating System
+Microsoft Corporation
+UI0Detect.exe 224
+C:\Windows\system32\
+PC01\IEUser
+EV_RenderedValue_12.00
+157270
+1
+High
+SHA1=4C0D16BD7C0C13D4D279DCFD3A7BC8B790DA35F7
+EV_RenderedValue_17.00
+2324
+C:\Windows\System32\UI0Detect.exe
+C:\Windows\system32\UI0Detect.exe
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:33:47,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:03:45.909
+EV_RenderedValue_2.00
+1608
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\LOCAL SERVICE
+udp
+False
+False
+239.255.255.250
+1900
+ssdp
+False
+10.0.2.16
+59304
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:33:02,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:03:00.321
+EV_RenderedValue_2.00
+1276
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\NETWORK SERVICE
+udp
+True
+False
+10.0.2.17
+PC01.example.corp
+61400
+False
+224.0.0.252
+5355
+llmnr
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:33:02,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:03:00.320
+EV_RenderedValue_2.00
+1276
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\NETWORK SERVICE
+udp
+False
+True
+ff02:0:0:0:0:0:1:3
+5355
+llmnr
+True
+fe80:0:0:0:80ac:4126:fa58:1b81
+PC01.example.corp
+64763
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:32:48,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:02:46.454
+EV_RenderedValue_2.00
+1276
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\NETWORK SERVICE
+tcp
+False
+False
+127.0.0.2
+3389
+ms-wbt-server
+False
+127.0.0.1
+PC01.example.corp
+49186
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:32:48,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:02:46.454
+EV_RenderedValue_2.00
+2312
+C:\Users\IEUser\Desktop\plink.exe
+PC01\IEUser
+tcp
+True
+False
+127.0.0.1
+PC01.example.corp
+49186
+False
+127.0.0.2
+3389
+ms-wbt-server
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:32:22,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:02:21.995
+EV_RenderedValue_2.00
+2312
+C:\Users\IEUser\Desktop\plink.exe
+PC01\IEUser
+tcp
+True
+False
+10.0.2.17
+PC01.example.corp
+49185
+False
+10.0.2.18
+PC02
+80
+http
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:32:21,Microsoft-Windows-Sysmon,1,(1),"The description for Event ID 1 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:02:21.934
+EV_RenderedValue_2.00
+2312
+C:\Users\IEUser\Desktop\plink.exe
+Release 0.70
+Command-line SSH, Telnet, and Rlogin client
+PuTTY suite
+Simon Tatham
+plink.exe  10.0.2.18 -P 80 -C -R 127.0.0.3:4444:127.0.0.2:3389 -l test -pw test
+C:\Users\IEUser\Desktop\
+PC01\IEUser
+EV_RenderedValue_12.00
+157270
+1
+High
+SHA1=7806AD24F669CD8BB9EBE16F87E90173047F8EE4
+EV_RenderedValue_17.00
+3904
+C:\Windows\System32\cmd.exe
+""C:\Windows\system32\cmd.exe"" 
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:31:50,Microsoft-Windows-Sysmon,5,(5),"The description for Event ID 5 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:01:50.699
+EV_RenderedValue_2.00
+3520
+C:\Users\IEUser\Desktop\plink.exe
+
+The message resource is present but the message was not found in the message table
+"
+Information,16-02-2019 15:31:46,Microsoft-Windows-Sysmon,3,(3),"The description for Event ID 3 from source Microsoft-Windows-Sysmon cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+2019-02-16 10:01:45.887
+EV_RenderedValue_2.00
+1608
+C:\Windows\System32\svchost.exe
+NT AUTHORITY\LOCAL SERVICE
+udp
+False
+False
+239.255.255.250
+1900
+ssdp
+False
+10.0.2.16
+57182
+
+The message resource is present but the message was not found in the message table
+"

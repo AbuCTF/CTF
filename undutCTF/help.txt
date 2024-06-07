@@ -1,0 +1,44 @@
+tar -xf secret.tar
+                                                                                               
+  _   _ _   _ _     ___   ____ _  _______ ____  _                                              
+ | | | | \ | | |   / _ \ / ___| |/ / ____|  _ \| |                                             
+ | | | |  \| | |  | | | | |   | ' /|  _| | | | | |                                             
+ | |_| | |\  | |__| |_| | |___| . \| |___| |_| |_|                                             
+  \___/|_| \_|_____\___/ \____|_|\_\_____|____/(_)                                             
+                                                                                               
+                                                                                               
+                                                                                               
+thisIs00000000000   
+
+- Hey you! You don't look like Mr. Bleicenbacher.
+- And what kind of strange helmet are you wearing?
+
+"Don't they stick on those horns?" the guard thinks..
+
+- To get in here, you must prove that you are who you say you are!
+- As you know, we use RSA for identification here at the fort.
+- We are also efficient and use e=3 as public exponent!
+- To let you in, you must show me a valid signature, signed with Bleichenbacher's key!
+
+1) Provide signature
+2) Ask about Harald's RSA configuration
+3) Run away in a panic
+
+What do you want to do?
+
+- If you are now Bleichenbacher, sign this message with his private key!
+9b2234745937114387ab572e2a9279bb5b7918b8edf6623cfd5767b8e02311d5
+
+What do you want to do? 2
+
+The guard cheerfully replies:
+- Algorithm: RSA PKCS1.5, e=3
+- Key size: 1024
+- Communication format: hex-coded, big endian
+- Bleichenbacher's public key: 80d041bbb703423b65a430d8ac70c010dd1d89a8455fa15a013774e31c5146226e38b970b4054e1525db555a1005558402a86d90c5384471cd1fe24b44 47f401dcd080d141176ddb930cd3c5684c05d3b7775f58655cd306d07a307225d51b7f2f899945e569908618e28daf26d3890c0e467246d02dead81bd40c6b14904ac8 f1d07f2d1881ffbadadfbc7e939e9ce4acf37fb03911405e67c4637284ac921172a33ab6942f08f041fa78475490dce316064d6defb3195dfb8ae7ef915c889fc6ea08f24122864c6 01d6de02665169b38672886b48f4f4bb52454ca0558b5b80a2d888a6d728e450aad1420c5742b4dd68f7ef78620c03f4cdd127ad5dfb997
+
+What do you want to do?   
+
+N = 402123366282494200927643019889499618988934951408257983420860138342942935797338166109594358973232270202861787784592986327721851388913361934436420420
+e = 3
+                                

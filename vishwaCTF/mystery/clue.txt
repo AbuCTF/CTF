@@ -1,0 +1,17 @@
+speaker = dan-cooper 24th of November 1971
+I have left from seattle, headed towards shanook
+i have got all my demands fullfilled, I have done the changes in the flight log and uploaded
+to remote server. the file is encrypted, the hint is the airliner that I was flying in.
+secret key is split and spread across the every element of the fibonacci series starting from 2.
+
+Northwestorientairlinesflight305
+Boeing 727-100
+N467US
+
+
+https://drive.google.com/file/d/1bkuZRLKOGWB7tLNBseWL34BoyI379QbF/view
+
+2 3 5 8 13 21 34
+
+orhsen
+orhse

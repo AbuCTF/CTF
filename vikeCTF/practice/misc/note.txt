@@ -1,0 +1,1 @@
+ctf{weekly_challenges_are_fun}

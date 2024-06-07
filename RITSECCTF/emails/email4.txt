@@ -1,0 +1,6 @@
+Good evening,
+
+It's simple. Just repeat the key over the whole message. That way you can encrypt the whole email with the smaller key.
+
+Thanks,
+- Your Secret Conspirator

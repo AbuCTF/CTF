@@ -1,0 +1,7 @@
+Good evening,
+
+I see you mentioned a One Time Pad. Looking into it, that might be useful.
+It apparently is secure against infinite computational resources. Do you think we can use that?
+
+Thanks,
+- Your Secret Conspirator

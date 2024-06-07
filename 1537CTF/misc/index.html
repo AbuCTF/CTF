@@ -1,0 +1,136 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatGPT-like UI</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+
+        #chat-container {
+            background-color: #fff;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        #messages {
+            height: 300px;
+            overflow-y: auto;
+            margin-bottom: 20px;
+            padding: 10px;
+            background: #e7e7e7;
+            border-radius: 8px;
+        }
+
+        .message {
+            margin-bottom: 12px;
+            padding: 8px;
+            background: #d9edf7;
+            border-radius: 8px;
+        }
+
+        .response {
+            background: #dff0d8;
+        }
+
+        #send-form {
+            display: flex;
+            gap: 10px;
+        }
+
+        #message-input {
+            flex-grow: 1;
+            padding: 8px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+        }
+
+        #send-button {
+            padding: 8px 16px;
+            border-radius: 8px;
+            border: none;
+            background-color: #5cb85c;
+            color: white;
+            cursor: pointer;
+        }
+
+        #send-button:hover {
+            background-color: #4cae4c;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="chat-container">
+        <div id="messages"></div>
+        <form id="send-form">
+            <input type="text" id="message-input" placeholder="Type your message here..." autofocus>
+            <button type="submit" id="send-button">Send</button>
+        </form>
+    </div>
+
+
+    <script>
+        document.getElementById('send-form').onsubmit = function (event) {
+            event.preventDefault();
+            const message = document.getElementById('message-input').value;
+            sendMessage(message);
+            document.getElementById('message-input').value = ''; // Clear input field
+        };
+
+        function sendMessage(message) {
+            const messageElement = document.createElement('div');
+            messageElement.classList.add('message');
+            messageElement.textContent = 'You: ' + message;
+            document.getElementById('messages').appendChild(messageElement);
+            scrollToBottom();
+
+            fetch(`/chat?message=${encodeURIComponent(message)}`)
+                .then(response => response.json())
+                .then(data => {
+                    printLetterByLetter(data.message);
+                });
+        }
+
+        function printLetterByLetter(message) {
+            let index = 0;
+            const interval = setInterval(() => {
+                if (index < message.length) {
+                    const letter = message[index];
+                    if (index === 0 || message[index - 1] === '\n') {
+                        // Create a new response element for each line or the first letter
+                        const responseElement = document.createElement('div');
+                        responseElement.classList.add('message', 'response');
+                        responseElement.textContent = 'GPT: ' + letter;
+                        document.getElementById('messages').appendChild(responseElement);
+                    } else {
+                        // Append the letter to the last response element
+                        const messages = document.getElementById('messages');
+                        const lastMessage = messages.lastChild;
+                        lastMessage.textContent += letter;
+                    }
+                    scrollToBottom();
+                    index++;
+                } else {
+                    clearInterval(interval);
+                }
+            }, 50); // Adjust speed of printing here
+        }
+
+        function scrollToBottom() {
+            const messages = document.getElementById('messages');
+            messages.scrollTop = messages.scrollHeight;
+        }
+    </script>
+
+</body>
+
+</html>

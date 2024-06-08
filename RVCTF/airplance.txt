@@ -1,0 +1,8 @@
+Airbus A350-900
+Singapore Changi
+SIA517 9V-SHY
+
+2896
+3h 38m total travel time
+
+flag{SQ517_9V-SHY_2896_03:40_Airbus A350-941}

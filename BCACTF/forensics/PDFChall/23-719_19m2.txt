@@ -1,0 +1,733 @@
+(Slip Opinion)
+
+Cite as: 601 U. S. ____ (2024)
+
+bcactf{rEAl_WOrLd_appLIc4t1ons_Of_cTf_ad04cc78601d5da8}
+
+Per Curiam
+NOTICE: This opinion is subject to formal revision before publication in the
+United States Reports. Readers are requested to notify the Reporter of
+Decisions, Supreme Court of the United States, Washington, D. C. 20543,
+pio@supremecourt.gov, of any typographical or other formal errors.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 23–719
+_________________
+
+DONALD J. TRUMP, PETITIONER v.
+NORMA ANDERSON, ET AL.
+ON WRIT OF CERTIORARI TO THE SUPREME COURT
+OF COLORADO
+[March 4, 2024]
+
+PER CURIAM.
+A group of Colorado voters contends that Section 3 of the
+Fourteenth Amendment to the Constitution prohibits former President Donald J. Trump, who seeks the Presidential
+nomination of the Republican Party in this year’s election,
+from becoming President again. The Colorado Supreme
+Court agreed with that contention. It ordered the Colorado
+secretary of state to exclude the former President from the
+Republican primary ballot in the State and to disregard any
+write-in votes that Colorado voters might cast for him.
+Former President Trump challenges that decision on several grounds. Because the Constitution makes Congress,
+rather than the States, responsible for enforcing Section 3
+against federal officeholders and candidates, we reverse.
+I
+Last September, about six months before the March 5,
+2024, Colorado primary election, four Republican and two
+unaffiliated Colorado voters filed a petition against former
+President Trump and Colorado Secretary of State Jena
+Griswold in Colorado state court. These voters—whom we
+refer to as the respondents—contend that after former
+
+2
+
+TRUMP v. ANDERSON
+Per Curiam
+
+President Trump’s defeat in the 2020 Presidential election,
+he disrupted the peaceful transfer of power by intentionally
+organizing and inciting the crowd that breached the Capitol
+as Congress met to certify the election results on January
+6, 2021. One consequence of those actions, the respondents
+maintain, is that former President Trump is constitutionally ineligible to serve as President again.
+Their theory turns on Section 3 of the Fourteenth Amendment. Section 3 provides:
+“No person shall be a Senator or Representative in Congress, or elector of President and Vice President, or
+hold any office, civil or military, under the United
+States, or under any State, who, having previously
+taken an oath, as a member of Congress, or as an officer
+of the United States, or as a member of any State legislature, or as an executive or judicial officer of any
+State, to support the Constitution of the United States,
+shall have engaged in insurrection or rebellion against
+the same, or given aid or comfort to the enemies
+thereof. But Congress may by a vote of two-thirds of
+each House, remove such disability.”
+According to the respondents, Section 3 applies to the former President because after taking the Presidential oath in
+2017, he intentionally incited the breaching of the Capitol
+on January 6 in order to retain power. They claim that he
+is therefore not a qualified candidate, and that as a result,
+the Colorado secretary of state may not place him on the
+primary ballot. See Colo. Rev. Stat. §§1–1–113(1), 1–4–
+1101(1), 1–4–1201, 1–4–1203(2)(a), 1–4–1204 (2023).
+After a five-day trial, the state District Court found that
+former President Trump had “engaged in insurrection”
+within the meaning of Section 3, but nonetheless denied the
+respondents’ petition. The court held that Section 3 did not
+apply because the Presidency, which Section 3 does not
+mention by name, is not an “office . . . under the United
+
+Cite as: 601 U. S. ____ (2024)
+
+3
+
+Per Curiam
+
+States” and the President is not an “officer of the United
+States” within the meaning of that provision. See App. to
+Pet. for Cert. 184a–284a.
+In December, the Colorado Supreme Court reversed in
+part and affirmed in part by a 4 to 3 vote. Reversing the
+District Court’s operative holding, the majority concluded
+that for purposes of Section 3, the Presidency is an office
+under the United States and the President is an officer of
+the United States. The court otherwise affirmed, holding
+(1) that the Colorado Election Code permitted the respondents’ challenge based on Section 3; (2) that Congress need
+not pass implementing legislation for disqualifications under Section 3 to attach; (3) that the political question doctrine did not preclude judicial review of former President
+Trump’s eligibility; (4) that the District Court did not abuse
+its discretion in admitting into evidence portions of a congressional Report on the events of January 6; (5) that the
+District Court did not err in concluding that those events
+constituted an “insurrection” and that former President
+Trump “engaged in” that insurrection; and (6) that former
+President Trump’s speech to the crowd that breached the
+Capitol on January 6 was not protected by the First Amendment. See id., at 1a–114a.
+The Colorado Supreme Court accordingly ordered Secretary Griswold not to “list President Trump’s name on the
+2024 presidential primary ballot” or “count any write-in
+votes cast for him.” Id., at 114a. Chief Justice Boatright
+and Justices Samour and Berkenkotter each filed dissenting opinions. Id., at 115a–124a, 125a–161a, 162a–183a.
+Under the terms of the opinion of the Colorado Supreme
+Court, its ruling was automatically stayed pending this
+Court’s review. See id., at 114a. We granted former President Trump’s petition for certiorari, which raised a single
+question: “Did the Colorado Supreme Court err in ordering
+President Trump excluded from the 2024 presidential primary ballot?” See 601 U. S. ___ (2024). Concluding that it
+
+4
+
+TRUMP v. ANDERSON
+Per Curiam
+
+did, we now reverse.
+II
+A
+Proposed by Congress in 1866 and ratified by the States
+in 1868, the Fourteenth Amendment “expand[ed] federal
+power at the expense of state autonomy” and thus “fundamentally altered the balance of state and federal power
+struck by the Constitution.” Seminole Tribe of Fla. v. Florida, 517 U. S. 44, 59 (1996); see also Ex parte Virginia, 100
+U. S. 339, 345 (1880). Section 1 of the Amendment, for instance, bars the States from “depriv[ing] any person of life,
+liberty, or property, without due process of law” or
+“deny[ing] to any person . . . the equal protection of the
+laws.” And Section 5 confers on Congress “power to enforce”
+those prohibitions, along with the other provisions of the
+Amendment, “by appropriate legislation.”
+Section 3 of the Amendment likewise restricts state autonomy, but through different means. It was designed to
+help ensure an enduring Union by preventing former Confederates from returning to power in the aftermath of the
+Civil War. See, e.g., Cong. Globe, 39th Cong., 1st Sess.,
+2544 (1866) (statement of Rep. Stevens, warning that without appropriate constitutional reforms “yelling secessionists and hissing copperheads” would take seats in the
+House); id., at 2768 (statement of Sen. Howard, lamenting
+prospect of a “State Legislature . . . made up entirely of disloyal elements” absent a disqualification provision). Section 3 aimed to prevent such a resurgence by barring from
+office “those who, having once taken an oath to support the
+Constitution of the United States, afterward went into rebellion against the Government of the United States.”
+Cong. Globe, 41st Cong., 1st Sess., 626 (1869) (statement of
+Sen. Trumbull).
+Section 3 works by imposing on certain individuals a preventive and severe penalty—disqualification from holding
+
+Cite as: 601 U. S. ____ (2024)
+
+5
+
+Per Curiam
+
+a wide array of offices—rather than by granting rights to
+all. It is therefore necessary, as Chief Justice Chase concluded and the Colorado Supreme Court itself recognized,
+to “ ‘ascertain[ ] what particular individuals are embraced’ ”
+by the provision. App. to Pet. for Cert. 53a (quoting Griffin’s Case, 11 F. Cas. 7, 26 (No. 5,815) (CC Va. 1869) (Chase,
+Circuit Justice)). Chase went on to explain that “[t]o accomplish this ascertainment and ensure effective results, proceedings, evidence, decisions, and enforcements of decisions, more or less formal, are indispensable.” Id., at 26.
+For its part, the Colorado Supreme Court also concluded
+that there must be some kind of “determination” that Section 3 applies to a particular person “before the disqualification holds meaning.” App. to Pet. for Cert. 53a.
+The Constitution empowers Congress to prescribe how
+those determinations should be made. The relevant provision is Section 5, which enables Congress, subject of course
+to judicial review, to pass “appropriate legislation” to “enforce” the Fourteenth Amendment. See City of Boerne v.
+Flores, 521 U. S. 507, 536 (1997). Or as Senator Howard
+put it at the time the Amendment was framed, Section 5
+“casts upon Congress the responsibility of seeing to it, for
+the future, that all the sections of the amendment are carried out in good faith.” Cong. Globe, 39th Cong., 1st Sess.,
+at 2768.
+Congress’s Section 5 power is critical when it comes to
+Section 3. Indeed, during a debate on enforcement legislation less than a year after ratification, Sen. Trumbull noted
+that “notwithstanding [Section 3] . . . hundreds of men
+[were] holding office” in violation of its terms. Cong. Globe,
+41st Cong., 1st Sess., at 626. The Constitution, Trumbull
+noted, “provide[d] no means for enforcing” the disqualification, necessitating a “bill to give effect to the fundamental
+law embraced in the Constitution.” Ibid. The enforcement
+mechanism Trumbull championed was later enacted as
+part of the Enforcement Act of 1870, “pursuant to the power
+
+6
+
+TRUMP v. ANDERSON
+Per Curiam
+
+conferred by §5 of the [Fourteenth] Amendment.” General
+Building Contractors Assn., Inc. v. Pennsylvania, 458 U. S.
+375, 385 (1982); see 16 Stat. 143–144.
+B
+This case raises the question whether the States, in addition to Congress, may also enforce Section 3. We conclude
+that States may disqualify persons holding or attempting
+to hold state office. But States have no power under the
+Constitution to enforce Section 3 with respect to federal offices, especially the Presidency.
+“In our federal system, the National Government possesses only limited powers; the States and the people retain
+the remainder.” Bond v. United States, 572 U. S. 844, 854
+(2014). Among those retained powers is the power of a
+State to “order the processes of its own governance.” Alden
+v. Maine, 527 U. S. 706, 752 (1999). In particular, the
+States enjoy sovereign “power to prescribe the qualifications of their own officers” and “the manner of their election
+. . . free from external interference, except so far as plainly
+provided by the Constitution of the United States.” Taylor
+v. Beckham, 178 U. S. 548, 570–571 (1900). Although the
+Fourteenth Amendment restricts state power, nothing in it
+plainly withdraws from the States this traditional authority. And after ratification of the Fourteenth Amendment,
+States used this authority to disqualify state officers in accordance with state statutes. See, e.g., Worthy v. Barrett,
+63 N. C. 199, 200, 204 (1869) (elected county sheriff ); State
+ex rel. Sandlin v. Watkins, 21 La. Ann. 631, 631–633 (1869)
+(state judge).
+Such power over governance, however, does not extend to
+federal officeholders and candidates. Because federal officers “ ‘owe their existence and functions to the united voice
+of the whole, not of a portion, of the people,’ ” powers over
+their election and qualifications must be specifically “delegated to, rather than reserved by, the States.” U. S. Term
+
+Cite as: 601 U. S. ____ (2024)
+
+7
+
+Per Curiam
+
+Limits, Inc. v. Thornton, 514 U. S. 779, 803–804 (1995)
+(quoting 1 J. Story, Commentaries on the Constitution of
+the United States §627, p. 435 (3d ed. 1858)). But nothing
+in the Constitution delegates to the States any power to enforce Section 3 against federal officeholders and candidates.
+As an initial matter, not even the respondents contend
+that the Constitution authorizes States to somehow remove
+sitting federal officeholders who may be violating Section 3.
+Such a power would flout the principle that “the Constitution guarantees ‘the entire independence of the General
+Government from any control by the respective States.’ ”
+Trump v. Vance, 591 U. S. 786, 800 (2020) (quoting Farmers
+and Mechanics Sav. Bank of Minneapolis v. Minnesota, 232
+U. S. 516, 521 (1914)). Indeed, consistent with that principle, States lack even the lesser powers to issue writs of
+mandamus against federal officials or to grant habeas corpus relief to persons in federal custody. See McClung v.
+Silliman, 6 Wheat. 598, 603–605 (1821); Tarble’s Case, 13
+Wall. 397, 405–410 (1872).
+The respondents nonetheless maintain that States may
+enforce Section 3 against candidates for federal office. But
+the text of the Fourteenth Amendment, on its face, does not
+affirmatively delegate such a power to the States. The
+terms of the Amendment speak only to enforcement by Congress, which enjoys power to enforce the Amendment
+through legislation pursuant to Section 5.
+This can hardly come as a surprise, given that the substantive provisions of the Amendment “embody significant
+limitations on state authority.” Fitzpatrick v. Bitzer, 427
+U. S. 445, 456 (1976). Under the Amendment, States cannot abridge privileges or immunities, deprive persons of
+life, liberty, or property without due process, deny equal
+protection, or deny male inhabitants the right to vote (without thereby suffering reduced representation in the House).
+See Amdt. 14, §§1, 2. On the other hand, the Fourteenth
+Amendment grants new power to Congress to enforce the
+
+8
+
+TRUMP v. ANDERSON
+Per Curiam
+
+provisions of the Amendment against the States. It would
+be incongruous to read this particular Amendment as
+granting the States the power—silently no less—to disqualify a candidate for federal office.
+The only other plausible constitutional sources of such a
+delegation are the Elections and Electors Clauses, which
+authorize States to conduct and regulate congressional and
+Presidential elections, respectively. See Art. I, §4, cl. 1;
+Art. II, §1, cl. 2.1 But there is little reason to think that
+these Clauses implicitly authorize the States to enforce Section 3 against federal officeholders and candidates. Granting the States that authority would invert the Fourteenth
+Amendment’s rebalancing of federal and state power.
+The text of Section 3 reinforces these conclusions. Its final sentence empowers Congress to “remove” any Section 3
+“disability” by a two-thirds vote of each house. The text imposes no limits on that power, and Congress may exercise it
+any time, as the respondents concede. See Brief for Respondents 50. In fact, historically, Congress sometimes exercised this amnesty power postelection to ensure that
+some of the people’s chosen candidates could take office.2
+But if States were free to enforce Section 3 by barring candidates from running in the first place, Congress would be
+——————
+1 The Elections Clause directs, in relevant part, that “[t]he Times,
+Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof.” Art.
+I, §4, cl. 1. The Electors Clause similarly provides that “[e]ach State
+shall appoint, in such Manner as the Legislature thereof may direct, a
+Number of Electors,” who in turn elect the President. Art. II, §1, cl. 2.
+2 Shortly after the Fourteenth Amendment was ratified, for instance,
+Congress enacted a private bill to remove the Section 3 disability of Nelson Tift of Georgia, who had recently been elected to represent the State
+in Congress. See ch. 393, 15 Stat. 427. Tift took his seat in Congress
+immediately thereafter. See Cong. Globe, 40th Cong., 2d Sess., 4499–
+4500 (1868). Congress similarly acted postelection to remove the disabilities of persons elected to state and local offices. See Cong. Globe, 40th
+Cong., 3d Sess., 29–30, 120–121 (1868); ch. 5, 15 Stat. 435–436.
+
+Cite as: 601 U. S. ____ (2024)
+
+9
+
+Per Curiam
+
+forced to exercise its disability removal power before voting
+begins if it wished for its decision to have any effect on the
+current election cycle. Perhaps a State may burden congressional authority in such a way when it exercises its “exclusive” sovereign power over its own state offices. Taylor,
+178 U. S., at 571. But it is implausible to suppose that the
+Constitution affirmatively delegated to the States the authority to impose such a burden on congressional power
+with respect to candidates for federal office. Cf. McCulloch
+v. Maryland, 4 Wheat. 316, 436 (1819) (“States have no
+power . . . to retard, impede, burden, or in any manner control, the operations of the constitutional laws enacted by
+Congress”).
+Nor have the respondents identified any tradition of state
+enforcement of Section 3 against federal officeholders or
+candidates in the years following ratification of the Fourteenth Amendment.3 Such a lack of historical precedent is
+generally a “ ‘telling indication’ ” of a “ ‘severe constitutional
+problem’ ” with the asserted power. United States v. Texas,
+599 U. S. 670, 677 (2023) (quoting Free Enterprise Fund v.
+Public Company Accounting Oversight Bd., 561 U. S. 477,
+505 (2010)). And it is an especially telling sign here, because as noted, States did disqualify persons from holding
+state offices following ratification of the Fourteenth Amendment. That pattern of disqualification with respect to state,
+but not federal offices provides “persuasive evidence of a
+general understanding” that the States lacked enforcement
+power with respect to the latter. U. S. Term Limits, 514
+——————
+3 We are aware of just one example of state enforcement against a
+would-be federal officer. In 1868, the Governor of Georgia refused to
+commission John Christy, who had won the most votes in a congressional
+election, because—in the Governor’s view—Section 3 made Christy ineligible to serve. But the Governor’s determination was not final; a committee of the House reviewed Christy’s qualifications itself and recommended that he not be seated. The full House never acted on the matter,
+and Christy was never seated. See 1 A. Hinds, Precedents of the House
+of Representatives §459, pp. 470–472 (1907).
+
+10
+
+TRUMP v. ANDERSON
+Per Curiam
+
+U. S., at 826.
+Instead, it is Congress that has long given effect to Section 3 with respect to would-be or existing federal officeholders. Shortly after ratification of the Amendment, Congress enacted the Enforcement Act of 1870. That Act
+authorized federal district attorneys to bring civil actions in
+federal court to remove anyone holding nonlegislative office—federal or state—in violation of Section 3, and made
+holding or attempting to hold office in violation of Section 3
+a federal crime. §§14, 15, 16 Stat. 143–144 (repealed, 35
+Stat. 1153–1154, 62 Stat. 992–993). In the years following
+ratification, the House and Senate exercised their unique
+powers under Article I to adjudicate challenges contending
+that certain prospective or sitting Members could not take
+or retain their seats due to Section 3. See Art. I, §5, cls. 1,
+2; 1 A. Hinds, Precedents of the House of Representatives
+§§459–463, pp. 470–486 (1907). And the Confiscation Act
+of 1862, which predated Section 3, effectively provided an
+additional procedure for enforcing disqualification. That
+law made engaging in insurrection or rebellion, among
+other acts, a federal crime punishable by disqualification
+from holding office under the United States. See §§2, 3, 12
+Stat. 590. A successor to those provisions remains on the
+books today. See 18 U. S. C. §2383.
+Moreover, permitting state enforcement of Section 3
+against federal officeholders and candidates would raise serious questions about the scope of that power. Section 5
+limits congressional legislation enforcing Section 3, because
+Section 5 is strictly “remedial.” City of Boerne, 521 U. S., at
+520. To comply with that limitation, Congress “must tailor
+its legislative scheme to remedying or preventing” the specific conduct the relevant provision prohibits. Florida Prepaid Postsecondary Ed. Expense Bd. v. College Savings
+Bank, 527 U. S. 627, 639 (1999). Section 3, unlike other
+provisions of the Fourteenth Amendment, proscribes conduct of individuals. It bars persons from holding office after
+
+Cite as: 601 U. S. ____ (2024)
+
+11
+
+Per Curiam
+
+taking a qualifying oath and then engaging in insurrection
+or rebellion—nothing more. Any congressional legislation
+enforcing Section 3 must, like the Enforcement Act of 1870
+and §2383, reflect “congruence and proportionality” between preventing or remedying that conduct “and the
+means adopted to that end.” City of Boerne, 521 U. S., at
+520. Neither we nor the respondents are aware of any other
+legislation by Congress to enforce Section 3. See Tr. of Oral
+Arg. 123.
+Any state enforcement of Section 3 against federal officeholders and candidates, though, would not derive from Section 5, which confers power only on “[t]he Congress.” As a
+result, such state enforcement might be argued to sweep
+more broadly than congressional enforcement could under
+our precedents. But the notion that the Constitution grants
+the States freer rein than Congress to decide how Section 3
+should be enforced with respect to federal offices is simply
+implausible.
+Finally, state enforcement of Section 3 with respect to the
+Presidency would raise heightened concerns. “[I]n the context of a Presidential election, state-imposed restrictions
+implicate a uniquely important national interest.” Anderson v. Celebrezze, 460 U. S. 780, 794–795 (1983) (footnote
+omitted). But state-by-state resolution of the question
+whether Section 3 bars a particular candidate for President
+from serving would be quite unlikely to yield a uniform answer consistent with the basic principle that “the President
+. . . represent[s] all the voters in the Nation.” Id., at 795
+(emphasis added).
+Conflicting state outcomes concerning the same candidate could result not just from differing views of the merits,
+but from variations in state law governing the proceedings
+that are necessary to make Section 3 disqualification determinations. Some States might allow a Section 3 challenge
+to succeed based on a preponderance of the evidence, while
+
+12
+
+TRUMP v. ANDERSON
+Per Curiam
+
+others might require a heightened showing. Certain evidence (like the congressional Report on which the lower
+courts relied here) might be admissible in some States but
+inadmissible hearsay in others. Disqualification might be
+possible only through criminal prosecution, as opposed to
+expedited civil proceedings, in particular States. Indeed, in
+some States—unlike Colorado (or Maine, where the secretary of state recently issued an order excluding former President Trump from the primary ballot)—procedures for excluding an ineligible candidate from the ballot may not
+exist at all. The result could well be that a single candidate
+would be declared ineligible in some States, but not others,
+based on the same conduct (and perhaps even the same factual record).
+The “patchwork” that would likely result from state enforcement would “sever the direct link that the Framers
+found so critical between the National Government and the
+people of the United States” as a whole. U. S. Term Limits,
+514 U. S., at 822. But in a Presidential election “the impact
+of the votes cast in each State is affected by the votes cast”—
+or, in this case, the votes not allowed to be cast—“for the
+various candidates in other States.” Anderson, 460 U. S.,
+at 795. An evolving electoral map could dramatically
+change the behavior of voters, parties, and States across the
+country, in different ways and at different times. The disruption would be all the more acute—and could nullify the
+votes of millions and change the election result—if Section
+3 enforcement were attempted after the Nation has voted.
+Nothing in the Constitution requires that we endure such
+chaos—arriving at any time or different times, up to and
+perhaps beyond the Inauguration.
+*
+*
+*
+For the reasons given, responsibility for enforcing Section
+3 against federal officeholders and candidates rests with
+Congress and not the States. The judgment of the Colorado
+
+Cite as: 601 U. S. ____ (2024)
+
+13
+
+Per Curiam
+
+Supreme Court therefore cannot stand.
+All nine Members of the Court agree with that result.
+Our colleagues writing separately further agree with many
+of the reasons this opinion provides for reaching it. See
+post, Part I (joint opinion of SOTOMAYOR, KAGAN, and
+JACKSON, JJ.); see also post, p. 1 (opinion of BARRETT, J.).
+So far as we can tell, they object only to our taking into account the distinctive way Section 3 works and the fact that
+Section 5 vests in Congress the power to enforce it. These
+are not the only reasons the States lack power to enforce
+this particular constitutional provision with respect to federal offices. But they are important ones, and it is the combination of all the reasons set forth in this opinion—not, as
+some of our colleagues would have it, just one particular rationale—that resolves this case. In our view, each of these
+reasons is necessary to provide a complete explanation for
+the judgment the Court unanimously reaches.
+The judgment of the Colorado Supreme Court is reversed.
+The mandate shall issue forthwith.
+It is so ordered.
+
+Cite as: 601 U. S. ____ (2024)
+
+1
+
+ARRETT,of
+J.,Bconcurring
+B
+Opinion
+ARRETT, J.
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 23–719
+_________________
+
+DONALD J. TRUMP, PETITIONER v.
+NORMA ANDERSON, ET AL.
+ON WRIT OF CERTIORARI TO THE SUPREME COURT
+OF COLORADO
+[March 4, 2024]
+
+JUSTICE BARRETT, concurring in part and concurring in
+the judgment.
+I join Parts I and II–B of the Court’s opinion. I agree that
+States lack the power to enforce Section 3 against Presidential candidates. That principle is sufficient to resolve this
+case, and I would decide no more than that. This suit was
+brought by Colorado voters under state law in state court.
+It does not require us to address the complicated question
+whether federal legislation is the exclusive vehicle through
+which Section 3 can be enforced.
+The majority’s choice of a different path leaves the remaining Justices with a choice of how to respond. In my
+judgment, this is not the time to amplify disagreement with
+stridency. The Court has settled a politically charged issue
+in the volatile season of a Presidential election. Particularly in this circumstance, writings on the Court should
+turn the national temperature down, not up. For present
+purposes, our differences are far less important than our
+unanimity: All nine Justices agree on the outcome of this
+case. That is the message Americans should take home.
+
+Cite as: 601 U. S. ____ (2024)
+
+1
+
+
+ , KAGAN
+SOTOMAYOR
+, and JACKSON, JJ., concurring in judgment
+
+SUPREME COURT OF THE UNITED STATES
+_________________
+
+No. 23–719
+_________________
+
+DONALD J. TRUMP, PETITIONER v.
+NORMA ANDERSON, ET AL.
+ON WRIT OF CERTIORARI TO THE SUPREME COURT
+OF COLORADO
+[March 4, 2024]
+
+JUSTICE SOTOMAYOR, JUSTICE KAGAN, and JUSTICE
+JACKSON, concurring in the judgment.
+“If it is not necessary to decide more to dispose of a case,
+then it is necessary not to decide more.” Dobbs v. Jackson
+Women’s Health Organization, 597 U. S. 215, 348 (2022)
+(ROBERTS, C. J., concurring in judgment). That fundamental principle of judicial restraint is practically as old as our
+Republic. This Court is authorized “to say what the law is”
+only because “[t]hose who apply [a] rule to particular cases
+. . . must of necessity expound and interpret that rule.”
+Marbury v. Madison, 1 Cranch 137, 177 (1803) (emphasis
+added).
+Today, the Court departs from that vital principle, deciding not just this case, but challenges that might arise in the
+future. In this case, the Court must decide whether Colorado may keep a Presidential candidate off the ballot on the
+ground that he is an oathbreaking insurrectionist and thus
+disqualified from holding federal office under Section 3 of
+the Fourteenth Amendment. Allowing Colorado to do so
+would, we agree, create a chaotic state-by-state patchwork,
+at odds with our Nation’s federalism principles. That is
+enough to resolve this case. Yet the majority goes further.
+Even though “[a]ll nine Members of the Court” agree that
+this independent and sufficient rationale resolves this case,
+
+2
+
+TRUMP v. ANDERSON
+OTOMAYOR,, K
+KAGAN
+AGAN,, and
+JACKSON
+, JJ.,, JJ.,
+concurring
+in the
+SOTOMAYOR
+S
+JACKSON
+concurring
+in judgment
+judgment
+
+five Justices go on. They decide novel constitutional questions to insulate this Court and petitioner from future controversy. Ante, at 13. Although only an individual State’s
+action is at issue here, the majority opines on which federal
+actors can enforce Section 3, and how they must do so. The
+majority announces that a disqualification for insurrection
+can occur only when Congress enacts a particular kind of
+legislation pursuant to Section 5 of the Fourteenth Amendment. In doing so, the majority shuts the door on other potential means of federal enforcement. We cannot join an
+opinion that decides momentous and difficult issues unnecessarily, and we therefore concur only in the judgment.
+I
+Our Constitution leaves some questions to the States
+while committing others to the Federal Government. Federalism principles embedded in that constitutional structure decide this case. States cannot use their control over
+the ballot to “undermine the National Government.” U. S.
+Term Limits, Inc. v. Thornton, 514 U. S. 779, 810 (1995).
+That danger is even greater “in the context of a Presidential
+election.” Anderson v. Celebrezze, 460 U. S. 780, 794–795
+(1983). State restrictions in that context “implicate a
+uniquely important national interest” extending beyond a
+State’s “own borders.” Ibid. No doubt, States have significant “authority over presidential electors” and, in turn,
+Presidential elections. Chiafalo v. Washington, 591 U. S.
+578, 588 (2020). That power, however, is limited by “other
+constitutional constraint[s],” including federalism principles. Id., at 589.
+The majority rests on such principles when it explains
+why Colorado cannot take Petitioner off the ballot. “[S]tateby-state resolution of the question whether Section 3 bars a
+particular candidate for President from serving,” the majority explains, “would be quite unlikely to yield a uniform answer consistent with the basic principle that ‘the President
+
+Cite as: 601 U. S. ____ (2024)
+
+3
+
+OTOMAYOR,, K
+KAGAN
+AGAN,, and
+JACKSON
+, JJ.,, JJ.,
+concurring
+in the
+SOTOMAYOR
+S
+JACKSON
+concurring
+in judgment
+judgment
+
+. . . represent[s] all the voters in the Nation.’ ” Ante, at 11
+(quoting Anderson, 460 U. S., at 795). That is especially so,
+the majority adds, because different States can reach “[c]onflicting . . . outcomes concerning the same candidate . . . not
+just from differing views of the merits, but from variations
+in state law governing the proceedings” to enforce Section
+3. Ante, at 11.
+The contrary conclusion that a handful of officials in a
+few States could decide the Nation’s next President would
+be especially surprising with respect to Section 3. The Reconstruction Amendments “were specifically designed as an
+expansion of federal power and an intrusion on state sovereignty.” City of Rome v. United States, 446 U. S. 156, 179
+(1980). Section 3 marked the first time the Constitution
+placed substantive limits on a State’s authority to choose
+its own officials. Given that context, it would defy logic for
+Section 3 to give States new powers to determine who may
+hold the Presidency. Cf. ante, at 8 (“It would be incongruous to read this particular Amendment as granting the
+States the power—silently no less—to disqualify a candidate for federal office”).
+That provides a secure and sufficient basis to resolve this
+case. To allow Colorado to take a presidential candidate off
+the ballot under Section 3 would imperil the Framers’ vision of “a Federal Government directly responsible to the
+people.” U. S. Term Limits, 514 U. S., at 821. The Court
+should have started and ended its opinion with this conclusion.
+II
+Yet the Court continues on to resolve questions not before
+us. In a case involving no federal action whatsoever, the
+Court opines on how federal enforcement of Section 3 must
+proceed. Congress, the majority says, must enact legislation under Section 5 prescribing the procedures to “ ‘ “ascertain[ ] what particular individuals” ’ ” should be disqualified.
+
+4
+
+TRUMP v. ANDERSON
+OTOMAYOR,, K
+KAGAN
+AGAN,, and
+JACKSON
+, JJ.,, JJ.,
+concurring
+in the
+SOTOMAYOR
+S
+JACKSON
+concurring
+in judgment
+judgment
+
+Ante, at 5 (quoting Griffin’s Case, 11 F. Cas. 7, 26
+(No. 5,815) (CC Va. 1869) (Chase, Circuit Justice)). These
+musings are as inadequately supported as they are gratuitous.
+To start, nothing in Section 3’s text supports the majority’s view of how federal disqualification efforts must operate. Section 3 states simply that “[n]o person shall” hold
+certain positions and offices if they are oathbreaking insurrectionists. Amdt. 14. Nothing in that unequivocal bar suggests that implementing legislation enacted under Section
+5 is “critical” (or, for that matter, what that word means in
+this context). Ante, at 5. In fact, the text cuts the opposite
+way. Section 3 provides that when an oathbreaking insurrectionist is disqualified, “Congress may by a vote of twothirds of each House, remove such disability.” It is hard to
+understand why the Constitution would require a congressional supermajority to remove a disqualification if a simple
+majority could nullify Section 3’s operation by repealing or
+declining to pass implementing legislation. Even petitioner’s lawyer acknowledged the “tension” in Section 3 that
+the majority’s view creates. See Tr. of Oral Arg. 31.
+Similarly, nothing else in the rest of the Fourteenth
+Amendment supports the majority’s view. Section 5 gives
+Congress the “power to enforce [the Amendment] by appropriate legislation.” Remedial legislation of any kind, however, is not required. All the Reconstruction Amendments
+(including the due process and equal protection guarantees
+and prohibition of slavery) “are self-executing,” meaning
+that they do not depend on legislation. City of Boerne v.
+Flores, 521 U. S. 507, 524 (1997); see Civil Rights Cases, 109
+U. S. 3, 20 (1883). Similarly, other constitutional rules of
+disqualification, like the two-term limit on the Presidency,
+do not require implementing legislation. See, e.g., Art. II,
+§1, cl. 5 (Presidential Qualifications); Amdt. 22 (Presidential Term Limits). Nor does the majority suggest otherwise.
+
+Cite as: 601 U. S. ____ (2024)
+
+5
+
+OTOMAYOR,, K
+KAGAN
+AGAN,, and
+JACKSON
+, JJ.,, JJ.,
+concurring
+in the
+SOTOMAYOR
+S
+JACKSON
+concurring
+in judgment
+judgment
+
+It simply creates a special rule for the insurrection disability in Section 3.
+The majority is left with next to no support for its requirement that a Section 3 disqualification can occur only pursuant to legislation enacted for that purpose. It cites Griffin’s
+Case, but that is a nonprecedential, lower court opinion by
+a single Justice in his capacity as a circuit judge. See ante,
+at 5 (quoting 11 F. Cas., at 26). Once again, even petitioner’s lawyer distanced himself from fully embracing this
+case as probative of Section 3’s meaning. See Tr. of Oral
+Arg. 35–36. The majority also cites Senator Trumbull’s
+statements that Section 3 “ ‘provide[d] no means for enforcing’ ” itself. Ante, at 5 (quoting Cong. Globe, 41st Cong., 1st
+Sess., 626 (1869)). The majority, however, neglects to mention the Senator’s view that “[i]t is the [F]ourteenth
+[A]mendment that prevents a person from holding office,”
+with the proposed legislation simply “affor[ding] a more efficient and speedy remedy” for effecting the disqualification. Cong. Globe, 41st Cong., 1st Sess., at 626–627.
+Ultimately, under the guise of providing a more “complete explanation for the judgment,” ante, at 13, the majority resolves many unsettled questions about Section 3. It
+forecloses judicial enforcement of that provision, such as
+might occur when a party is prosecuted by an insurrectionist and raises a defense on that score. The majority further
+holds that any legislation to enforce this provision must
+prescribe certain procedures “ ‘tailor[ed]’ ” to Section 3, ante,
+at 10, ruling out enforcement under general federal statutes requiring the government to comply with the law. By
+resolving these and other questions, the majority attempts
+to insulate all alleged insurrectionists from future challenges to their holding federal office.
+*
+*
+*
+“What it does today, the Court should have left undone.”
+
+6
+
+TRUMP v. ANDERSON
+OTOMAYOR,, K
+KAGAN
+AGAN,, and
+JACKSON
+, JJ.,, JJ.,
+concurring
+in the
+SOTOMAYOR
+S
+JACKSON
+concurring
+in judgment
+judgment
+
+Bush v. Gore, 531 U. S. 98, 158 (2000) (Breyer, J., dissenting). The Court today needed to resolve only a single question: whether an individual State may keep a Presidential
+candidate found to have engaged in insurrection off its ballot. The majority resolves much more than the case before
+us. Although federal enforcement of Section 3 is in no way
+at issue, the majority announces novel rules for how that
+enforcement must operate. It reaches out to decide Section
+3 questions not before us, and to foreclose future efforts to
+disqualify a Presidential candidate under that provision. In
+a sensitive case crying out for judicial restraint, it abandons
+that course.
+Section 3 serves an important, though rarely needed, role
+in our democracy. The American people have the power to
+vote for and elect candidates for national office, and that is
+a great and glorious thing. The men who drafted and ratified the Fourteenth Amendment, however, had witnessed
+an “insurrection [and] rebellion” to defend slavery. §3.
+They wanted to ensure that those who had participated in
+that insurrection, and in possible future insurrections,
+could not return to prominent roles. Today, the majority
+goes beyond the necessities of this case to limit how Section
+3 can bar an oathbreaking insurrectionist from becoming
+President. Although we agree that Colorado cannot enforce
+Section 3, we protest the majority’s effort to use this case to
+define the limits of federal enforcement of that provision.
+Because we would decide only the issue before us, we concur
+only in the judgment.
+
+

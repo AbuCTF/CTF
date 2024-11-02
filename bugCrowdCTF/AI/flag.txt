@@ -1,0 +1,2 @@
+flag{are_you_the_keymaster} 
+flag{the_magic_word}

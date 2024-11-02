@@ -1,0 +1,23 @@
+Info: 155 plugins loaded.
+Processing started. Please wait. This may take a few minutes...
+
+--------------------------------------------------------------------------------------
+iLEAPP v1.18.6: iLEAPP Logs, Events, and Properties Parser
+Objective: Triage iOS Full System Extractions.
+By: Alexis Brignoni | @AlexisBrignoni | abrignoni.com
+By: Yogesh Khatri   | @SwiftForensics | swiftforensics.com
+Building files listing...
+File listing complete - 3 files
+Artifact categories to parse: 155
+File/Directory selected: \\?\C:\Users\Abu\AppData\Local\Temp\Autopsy\blackhat_20240901_193207\Temp\iLeapp\fs_1
+
+--------------------------------------------------------------------------------------
+
+Processes completed.
+Processing time = 00:00:00
+Processing time (wall)= 00:00:00
+
+Report generation started.
+Report generation Completed.
+
+Report location: C:\Documents4\CyberSec\BlackHatCTF\forensics\Artifact\BlackHat\ModuleOutput\iLeapp\2024-09-01 19-35-59 IST\iLEAPP_Reports_2024-09-01_Sunday_193606

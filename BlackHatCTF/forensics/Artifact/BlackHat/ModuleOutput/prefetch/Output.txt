@@ -1,0 +1,2 @@
+Prefetch Directory is  C:\Users\Abu\AppData\Local\Temp\Autopsy\blackhat_20240901_193207\Temp\RecentActivity\1-Autopsy_PF_DB.db3_0
+DB file is  C:\Documents4\CyberSec\BlackHatCTF\forensics\Artifact\BlackHat\ModuleOutput\prefetch\1-Autopsy_PF_DB.db3

@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dfxml xmloutputversion='1.0'>
+  <metadata 
+  xmlns='http://www.forensicswiki.org/wiki/Category:Digital_Forensics_XML' 
+  xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' 
+  xmlns:dc='http://purl.org/dc/elements/1.1/'>
+    <dc:type>Carve Report</dc:type>
+  </metadata>
+  <creator>
+    <package>PhotoRec</package>
+    <version>7.1</version>
+    <build_environment>
+      <compiler>GCC 6.4, Cygwin 2009.0</compiler>
+      <library name='libext2fs' version='1.43.1'/>
+      <library name='libewf' version='20140608'/>
+      <library name='libjpeg' version='libjpeg-turbo-1.5.0'/>
+      <library name='libntfs' version='10:0:0'/>
+      <library name='zlib' version='1.2.11'/>
+    </build_environment>
+    <execution_environment>
+      <os_sysname>Windows</os_sysname>
+      <os_release>Windows 8 (9200)</os_release>
+      <os_version>Windows 8 (9200)</os_version>
+      <host>Abuntu</host>
+      <arch>x86_64</arch>
+      <uid>197609</uid>
+      <start_time>2024-09-02T06:21:22+0530</start_time>
+    </execution_environment>
+  </creator>
+  <source>
+    <image_filename>C:\Users\Abu\AppData\Local\Temp\Autopsy\ctf_20240902_061422\Temp\PhotoRec Carver\1_09-02-2024-06-20-53-0366\Unalloc_4_20054016_544342528</image_filename>
+    <sectorsize>512</sectorsize>
+    <image_size>524288512</image_size>
+    <volume>
+      <byte_runs>
+        <byte_run offset='0' img_offset='0' len='524288512'/>
+      </byte_runs>
+    </volume>
+  </source>
+  <configuration>
+  </configuration>
+  <fileobject>
+    <filename>f0124480.webp</filename>
+    <filesize>359206</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='63733760' len='359424'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0157248.webp</filename>
+    <filesize>548748</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='80510976' len='548864'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0190016.webp</filename>
+    <filesize>456490</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='97288192' len='456704'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0222784.webp</filename>
+    <filesize>481196</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='114065408' len='481280'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0255552.webp</filename>
+    <filesize>580774</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='130842624' len='581632'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0474880.mft</filename>
+    <filesize>1024</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='243138560' len='1024'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0474882.mft</filename>
+    <filesize>1024</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='243139584' len='1024'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0474884.mft</filename>
+    <filesize>1024</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='243140608' len='1024'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0474886.mft</filename>
+    <filesize>1024</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='243141632' len='1024'/>
+    </byte_runs>
+  </fileobject>
+  <fileobject>
+    <filename>f0480008.webp</filename>
+    <filesize>473262</filesize>
+    <byte_runs>
+      <byte_run offset='0' img_offset='245764096' len='474112'/>
+    </byte_runs>
+  </fileobject>
+</dfxml>

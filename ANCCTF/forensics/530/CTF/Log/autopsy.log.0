@@ -1,0 +1,1207 @@
+2024-09-11 22:59:34.507 org.sleuthkit.autopsy.centralrepository.datamodel.RdbmsCentralRepo upgradeSchema
+INFO: Central Repository is up to date
+2024-09-11 22:59:34.739 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+INFO: Starting local Solr SOLR8 server
+2024-09-11 22:59:34.753 org.sleuthkit.autopsy.keywordsearch.Server isLocalSolrRunning
+INFO: Solr server is running
+2024-09-11 22:59:34.753 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+INFO: Local Solr SOLR8 server is already running
+2024-09-11 22:59:34.76 org.sleuthkit.autopsy.keywordsearch.Server isLocalSolrRunning
+INFO: Solr server is running
+2024-09-11 22:59:38.396 org.sleuthkit.autopsy.keywordsearch.Server$Collection <init>
+INFO: Using Solr document queue size = 30
+2024-09-11 22:59:39.577 org.sleuthkit.autopsy.imagegallery.PerCaseProperties getConfigSetting
+INFO: File did not exist. Created file [Image Gallery.properties]
+2024-09-11 22:59:40.375 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB setPragmas
+INFO: sqlite-jdbc version 3.42.0.0 loaded in native mode
+2024-09-11 22:59:41.08 org.sleuthkit.autopsy.casemodule.Case openAsCurrentCase
+INFO: Opened CTF (ctf_20240911_225927) in C:\Documents4\CyberSec\ANCCTF\forensics\530\CTF as the current case
+2024-09-11 22:59:45.208 org.sleuthkit.autopsy.corecomponents.DataContentViewerHex <init>
+INFO: Created HexView instance: org.sleuthkit.autopsy.corecomponents.DataContentViewerHex[,0,0,0x0,invalid,layout=javax.swing.GroupLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=100,height=58]]
+2024-09-11 22:59:47.16 org.sleuthkit.autopsy.contentviewers.MediaFileViewer <init>
+INFO: Created MediaView instance: org.sleuthkit.autopsy.contentviewers.MediaFileViewer[,0,0,0x0,invalid,layout=java.awt.CardLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-09-11 22:59:51.715 org.sleuthkit.autopsy.contentviewers.FileViewer <init>
+INFO: Created ApplicationContentViewer instance: org.sleuthkit.autopsy.contentviewers.FileViewer[,0,0,0x0,invalid,layout=javax.swing.OverlayLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-09-11 22:59:53.101 org.sleuthkit.autopsy.corecomponents.DataContentTopComponent <init>
+INFO: Created DataContentTopComponent instance: org.sleuthkit.autopsy.corecomponents.DataContentTopComponent[Data Content,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=256,maximumSize=,minimumSize=,preferredSize=]
+2024-09-11 22:59:54.011 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Cyber Triage Malware Scanner, version = 1.0.0
+2024-09-11 22:59:54.177 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Central Repository, version = 4.21.0
+2024-09-11 22:59:54.343 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Data Source Integrity, version = 4.21.0
+2024-09-11 22:59:54.477 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = DJI Drone Analyzer, version = 4.21.0
+2024-09-11 22:59:54.612 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Embedded File Extractor, version = 4.21.0
+2024-09-11 22:59:54.614 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Encryption Detection, version = 4.21.0
+2024-09-11 22:59:54.772 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Extension Mismatch Detector, version = 4.21.0
+2024-09-11 22:59:54.934 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = File Type Identification, version = 4.21.0
+2024-09-11 22:59:55.095 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Hash Lookup, version = 4.21.0
+2024-09-11 22:59:55.095 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Interesting Files Identifier, version = 4.21.0
+2024-09-11 22:59:55.233 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Android Analyzer (aLEAPP), version = 4.21.0
+2024-09-11 22:59:55.233 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = iOS Analyzer (iLEAPP), version = 4.21.0
+2024-09-11 22:59:55.395 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = PhotoRec Carver, version = 7.0
+2024-09-11 22:59:55.637 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Picture Analyzer, version = 4.21.0
+2024-09-11 22:59:55.817 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Plaso, version = 4.21.0
+2024-09-11 22:59:55.959 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Virtual Machine Extractor, version = 4.21.0
+2024-09-11 22:59:56.123 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = YARA Analyzer, version = 4.21.0
+2024-09-11 22:59:56.127 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Keyword Search, version = 4.21.0
+2024-09-11 22:59:56.139 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Email Parser, version = 4.21.0
+2024-09-11 22:59:56.144 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Recent Activity, version = 4.21.0
+2024-09-11 22:59:56.289 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = GPX Parser, version = 1.2
+2024-09-11 22:59:56.289 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Android Analyzer, version = 4.21.0
+2024-09-11 23:00:22.574 com.basistech.df.cybertriage.autopsy.ctapi.CTCloudHttpClient createSSLContext
+INFO: Creating custom SSL context
+2024-09-11 23:00:22.576 com.basistech.df.cybertriage.autopsy.ctapi.CTCloudHttpClient getKeyManagers
+INFO: Using default algorithm to create trust store: SunX509
+2024-09-11 23:00:22.576 com.basistech.df.cybertriage.autopsy.ctapi.CTCloudHttpClient getTrustManagers
+INFO: Using default algorithm to create trust store: PKIX
+2024-09-11 23:00:24.21 com.basistech.df.cybertriage.autopsy.incidentoptions.CTSettings getAppDataLocalDirectory
+INFO: Application Data Path: C:\Users\Abu\AppData\Local\cybertriage
+2024-09-11 23:01:55.628 org.sleuthkit.autopsy.ingest.IngestMonitor$MonitorTimerAction logMonitoredRootDirectory
+INFO: Monitoring disk space of C:\
+2024-09-11 23:01:55.629 org.sleuthkit.autopsy.ingest.IngestManager startIngestJob
+INFO: Starting ingest job 0 at 1726075915629
+2024-09-11 23:01:55.641 org.sleuthkit.autopsy.ingest.IngestPipelinesConfiguration getInstance
+INFO: Creating ingest module loader instance
+2024-09-11 23:01:56.458 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer loadConfigFile
+INFO: Load successful
+2024-09-11 23:02:01.185 org.sleuthkit.autopsy.keywordsearch.Server isLocalSolrRunning
+INFO: Solr server is running
+2024-09-11 23:02:01.297 org.sleuthkit.autopsy.modules.yara.YaraIngestModule startUp
+INFO: YARA ingest module: No rule set was selected for this ingest job.
+2024-09-11 23:02:02.22 org.sleuthkit.autopsy.ingest.IngestJobExecutor logInfoMessage
+INFO: Starting ingest job in file batch mode (data source = LogicalFileSet1, data source object ID = 1, job ID = 0)
+2024-09-11 23:02:02.225 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule process
+INFO: Recent Activity analysis of LogicalFileSet1 starting
+2024-09-11 23:02:02.278 org.sleuthkit.autopsy.recentactivity.RecentDocumentsByLnk getRecentDocuments
+INFO: Didn't find any recent files.
+2024-09-11 23:02:02.368 org.sleuthkit.autopsy.recentactivity.Chromium getProfiles
+INFO: Could not find any allocated Chrome Local State files.
+2024-09-11 23:02:02.37 org.sleuthkit.autopsy.recentactivity.Chromium getProfiles
+INFO: Could not find any allocated Chrome Local State files.
+2024-09-11 23:02:02.373 org.sleuthkit.autopsy.recentactivity.Chromium getProfiles
+INFO: Could not find any allocated Chrome Local State files.
+2024-09-11 23:02:02.375 org.sleuthkit.autopsy.recentactivity.Chromium getProfiles
+INFO: Could not find any allocated Chrome Local State files.
+2024-09-11 23:02:02.376 org.sleuthkit.autopsy.recentactivity.Chromium getProfiles
+INFO: Could not find any allocated Chrome Local State files.
+2024-09-11 23:02:02.377 org.sleuthkit.autopsy.recentactivity.Chromium getProfiles
+INFO: Could not find any allocated Chrome Local State files.
+2024-09-11 23:02:02.378 org.sleuthkit.autopsy.recentactivity.Chromium getProfiles
+INFO: Could not find any allocated Chrome Local State files.
+2024-09-11 23:02:02.382 org.sleuthkit.autopsy.recentactivity.Firefox getHistory
+INFO: No FireFox history files found.
+2024-09-11 23:02:02.384 org.sleuthkit.autopsy.recentactivity.Firefox getBookmark
+INFO: Didn't find any firefox bookmark files.
+2024-09-11 23:02:02.385 org.sleuthkit.autopsy.recentactivity.Firefox getDownloadPreVersion24
+INFO: Didn't find any pre-version-24.0 Firefox download files.
+2024-09-11 23:02:02.387 org.sleuthkit.autopsy.recentactivity.Firefox getDownloadVersion24
+INFO: Didn't find any version-24.0 Firefox download files.
+2024-09-11 23:02:02.388 org.sleuthkit.autopsy.recentactivity.Firefox getCookie
+INFO: Didn't find any Firefox cookie files.
+2024-09-11 23:02:02.389 org.sleuthkit.autopsy.recentactivity.Firefox getFormsHistory
+INFO: No FireFox form history files found.
+2024-09-11 23:02:02.39 org.sleuthkit.autopsy.recentactivity.Firefox getAutofillProfiles
+INFO: Didn't find any Firefox Autofill Profiles files.
+2024-09-11 23:02:02.392 org.sleuthkit.autopsy.recentactivity.ExtractIE getBookmark
+INFO: Didn't find any IE bookmark files.
+2024-09-11 23:02:02.392 org.sleuthkit.autopsy.recentactivity.ExtractIE getCookie
+INFO: Didn't find any IE cookies files.
+2024-09-11 23:02:02.393 org.sleuthkit.autopsy.recentactivity.ExtractIE getHistory
+INFO: Pasco results path: C:\Users\Abu\AppData\Local\Temp\Autopsy\ctf_20240911_225927\Temp\RecentActivity\IE_0\results
+2024-09-11 23:02:02.393 org.sleuthkit.autopsy.recentactivity.ExtractIE getHistory
+INFO: Pasco2 home: C:\Program Files\Autopsy-4.21.0\autopsy\pasco2
+2024-09-11 23:02:02.395 org.sleuthkit.autopsy.recentactivity.ExtractIE getHistory
+INFO: No InternetExplorer history files found.
+2024-09-11 23:02:02.403 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer findSearchQueries
+INFO: Processing 0 blackboard artifacts.
+2024-09-11 23:02:02.404 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer findSearchQueries
+INFO: Extracted 0 queries from the blackboard
+2024-09-11 23:02:02.406 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer process
+INFO: Search Engine stats: 
+Google : 0
+Yahoo : 0
+Twitter : 0
+LinkedIn : 0
+Facebook : 0
+Bing : 0
+Baidu : 0
+Sogou : 0
+Soso : 0
+Youdao : 0
+Yandex : 0
+Biglobe : 0
+Linkestan : 0
+Parseek : 0
+Parset : 0
+Amazon : 0
+DuckDuckGo : 0
+Youtube : 0
+Reddit : 0
+CCSearch : 0
+Swisscows : 0
+GIbiru : 0
+Wiki : 0
+Cutestat : 0
+Givewater : 0
+Ekoru : 0
+Ecosia : 0
+Slideshare : 0
+Wikipedia : 0
+Wiki : 0
+
+2024-09-11 23:02:02.408 org.sleuthkit.autopsy.recentactivity.ExtractWebAccountType extractDomainRoles
+INFO: Processing 0 blackboard artifacts.
+2024-09-11 23:02:02.409 org.sleuthkit.autopsy.recentactivity.ExtractWebAccountType$RoleProcessor createArtifacts
+INFO: Didn't find any web accounts.
+2024-09-11 23:02:10.293 org.sleuthkit.autopsy.recentactivity.DomainCategoryRunner findDomainTypes
+INFO: Processing 0 blackboard artifacts.
+2024-09-11 23:02:10.294 org.sleuthkit.autopsy.recentactivity.DomainCategoryRunner findDomainTypes
+INFO: Extracted 0 distinct messaging domain(s) from the blackboard.  Of the 0 artifact(s) with valid hosts, 0 url(s) contained messaging domain suffix.
+2024-09-11 23:02:10.294 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule process
+INFO: Recent Activity analysis of LogicalFileSet1 finished
+2024-09-11 23:02:10.295 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule process
+INFO: Android Analyzer analysis of LogicalFileSet1 starting
+2024-09-11 23:02:17.374 AndroidIngestModule process
+INFO: running 22 analyzers
+2024-09-11 23:02:17.687 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule process
+INFO: Android Analyzer analysis of LogicalFileSet1 finished
+2024-09-11 23:02:17.688 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule process
+INFO: Encryption Detection analysis of LogicalFileSet1 starting
+2024-09-11 23:02:17.688 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule process
+INFO: Encryption Detection analysis of LogicalFileSet1 finished
+2024-09-11 23:02:17.688 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule process
+INFO: Virtual Machine Extractor analysis of LogicalFileSet1 starting
+2024-09-11 23:02:17.688 org.sleuthkit.autopsy.modules.vmextractor.VMExtractorIngestModule process
+INFO: Looking for virtual machine files in data source LogicalFileSet1
+2024-09-11 23:02:17.69 org.sleuthkit.autopsy.modules.vmextractor.VMExtractorIngestModule process
+INFO: No virtual machine files found in data source LogicalFileSet1
+2024-09-11 23:02:17.69 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule process
+INFO: Virtual Machine Extractor analysis of LogicalFileSet1 finished
+2024-09-11 23:02:17.691 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule process
+INFO: Android Analyzer (aLEAPP) analysis of LogicalFileSet1 starting
+2024-09-11 23:02:41.703 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule process
+INFO: Android Analyzer (aLEAPP) analysis of LogicalFileSet1 finished
+2024-09-11 23:02:41.703 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule process
+INFO: DJI Drone Analyzer analysis of LogicalFileSet1 starting
+2024-09-11 23:02:41.76 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule process
+INFO: DJI Drone Analyzer analysis of LogicalFileSet1 finished
+2024-09-11 23:02:41.76 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule process
+INFO: iOS Analyzer (iLEAPP) analysis of LogicalFileSet1 starting
+2024-09-11 23:03:08.592 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule process
+INFO: iOS Analyzer (iLEAPP) analysis of LogicalFileSet1 finished
+2024-09-11 23:11:35.943 org.sleuthkit.autopsy.coreutils.StringExtract$StringExtractUnicodeTable init
+INFO: initialized, unicode table loaded
+2024-09-11 23:19:39.775 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2_178 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection$SendBatchedDocumentsTask.run(Server.java:2122)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:19:49.962 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2_178 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection$SendBatchedDocumentsTask.run(Server.java:2122)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:20:00.055 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2_178 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection$SendBatchedDocumentsTask.run(Server.java:2122)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:20:10.654 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2_178 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection$SendBatchedDocumentsTask.run(Server.java:2122)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:20:19.455 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2_191 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.addDocument(Server.java:2293)
+	org.sleuthkit.autopsy.keywordsearch.Server.addDocument(Server.java:1025)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:454)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:388)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.search(Ingester.java:267)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.extractStringsAndIndex(KeywordSearchIngestModule.java:714)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.searchFile(KeywordSearchIngestModule.java:802)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.process(KeywordSearchIngestModule.java:391)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:208)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:182)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.performTask(IngestPipeline.java:217)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:619)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:20:20.753 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2_178 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection$SendBatchedDocumentsTask.run(Server.java:2122)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:20:29.609 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2_191 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.addDocument(Server.java:2293)
+	org.sleuthkit.autopsy.keywordsearch.Server.addDocument(Server.java:1025)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:454)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:388)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.search(Ingester.java:267)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.extractStringsAndIndex(KeywordSearchIngestModule.java:714)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.searchFile(KeywordSearchIngestModule.java:802)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.process(KeywordSearchIngestModule.java:391)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:208)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:182)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.performTask(IngestPipeline.java:217)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:619)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:20:30.844 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2_178 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection$SendBatchedDocumentsTask.run(Server.java:2122)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:20:39.788 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2_191 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.addDocument(Server.java:2293)
+	org.sleuthkit.autopsy.keywordsearch.Server.addDocument(Server.java:1025)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:454)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:388)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.search(Ingester.java:267)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.extractStringsAndIndex(KeywordSearchIngestModule.java:714)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.searchFile(KeywordSearchIngestModule.java:802)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.process(KeywordSearchIngestModule.java:391)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:208)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:182)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.performTask(IngestPipeline.java:217)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:619)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:20:40.945 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2_178 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection$SendBatchedDocumentsTask.run(Server.java:2122)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:20:49.952 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2_191 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.addDocument(Server.java:2293)
+	org.sleuthkit.autopsy.keywordsearch.Server.addDocument(Server.java:1025)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:454)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:388)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.search(Ingester.java:267)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.extractStringsAndIndex(KeywordSearchIngestModule.java:714)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.searchFile(KeywordSearchIngestModule.java:802)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.process(KeywordSearchIngestModule.java:391)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:208)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:182)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.performTask(IngestPipeline.java:217)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:619)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:20:51.031 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2_178 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection$SendBatchedDocumentsTask.run(Server.java:2122)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:21:00.14 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2_191 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.addDocument(Server.java:2293)
+	org.sleuthkit.autopsy.keywordsearch.Server.addDocument(Server.java:1025)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:454)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:388)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.search(Ingester.java:267)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.extractStringsAndIndex(KeywordSearchIngestModule.java:714)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.searchFile(KeywordSearchIngestModule.java:802)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.process(KeywordSearchIngestModule.java:391)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:208)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:182)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.performTask(IngestPipeline.java:217)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:619)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:21:01.114 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2_178 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection$SendBatchedDocumentsTask.run(Server.java:2122)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:21:10.392 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2_191 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.addDocument(Server.java:2293)
+	org.sleuthkit.autopsy.keywordsearch.Server.addDocument(Server.java:1025)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:454)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:388)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.search(Ingester.java:267)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.extractStringsAndIndex(KeywordSearchIngestModule.java:714)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.searchFile(KeywordSearchIngestModule.java:802)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.process(KeywordSearchIngestModule.java:391)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:208)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:182)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.performTask(IngestPipeline.java:217)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:619)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:21:11.187 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+SEVERE: Unable to send document batch to Solr. All re-try attempts failed!
+2024-09-11 23:21:11.188 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+SEVERE: Could not add batched documents to index
+org.sleuthkit.autopsy.keywordsearch.KeywordSearchModuleException: Could not add batched documents to index
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2341)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection$SendBatchedDocumentsTask.run(Server.java:2122)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:21:11.198 org.sleuthkit.autopsy.keywordsearch.Server$Collection$SendBatchedDocumentsTask run
+SEVERE: Periodic  batched document update failed
+org.sleuthkit.autopsy.keywordsearch.KeywordSearchModuleException: Could not add batched documents to index
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2352)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection$SendBatchedDocumentsTask.run(Server.java:2122)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+org.sleuthkit.autopsy.keywordsearch.KeywordSearchModuleException: Could not add batched documents to index
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2352)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection$SendBatchedDocumentsTask.run(Server.java:2122)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:21:20.614 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2_191 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.addDocument(Server.java:2293)
+	org.sleuthkit.autopsy.keywordsearch.Server.addDocument(Server.java:1025)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:454)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:388)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.search(Ingester.java:267)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.extractStringsAndIndex(KeywordSearchIngestModule.java:714)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.searchFile(KeywordSearchIngestModule.java:802)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.process(KeywordSearchIngestModule.java:391)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:208)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:182)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.performTask(IngestPipeline.java:217)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:619)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:21:30.809 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2_191 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.addDocument(Server.java:2293)
+	org.sleuthkit.autopsy.keywordsearch.Server.addDocument(Server.java:1025)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:454)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:388)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.search(Ingester.java:267)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.extractStringsAndIndex(KeywordSearchIngestModule.java:714)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.searchFile(KeywordSearchIngestModule.java:802)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.process(KeywordSearchIngestModule.java:391)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:208)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:182)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.performTask(IngestPipeline.java:217)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:619)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:21:40.959 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2_191 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.addDocument(Server.java:2293)
+	org.sleuthkit.autopsy.keywordsearch.Server.addDocument(Server.java:1025)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:454)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:388)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.search(Ingester.java:267)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.extractStringsAndIndex(KeywordSearchIngestModule.java:714)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.searchFile(KeywordSearchIngestModule.java:802)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.process(KeywordSearchIngestModule.java:391)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:208)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:182)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.performTask(IngestPipeline.java:217)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:619)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:21:51.091 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+SEVERE: Unable to send document batch to Solr. All re-try attempts failed!
+2024-09-11 23:21:51.091 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+SEVERE: Could not add batched documents to index
+org.sleuthkit.autopsy.keywordsearch.KeywordSearchModuleException: Could not add batched documents to index
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2341)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.addDocument(Server.java:2293)
+	org.sleuthkit.autopsy.keywordsearch.Server.addDocument(Server.java:1025)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:454)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:388)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.search(Ingester.java:267)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.extractStringsAndIndex(KeywordSearchIngestModule.java:714)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.searchFile(KeywordSearchIngestModule.java:802)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.process(KeywordSearchIngestModule.java:391)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:208)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:182)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.performTask(IngestPipeline.java:217)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:619)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:21:51.093 org.sleuthkit.autopsy.keywordsearch.Ingester indexChunk
+WARNING: Ingester had a problem with extracted string from file 'a.raw' (id: 2).
+org.sleuthkit.autopsy.keywordsearch.Ingester$IngesterException: Error ingesting document: a.raw
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:461)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:388)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.search(Ingester.java:267)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.extractStringsAndIndex(KeywordSearchIngestModule.java:714)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.searchFile(KeywordSearchIngestModule.java:802)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.process(KeywordSearchIngestModule.java:391)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:208)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:182)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.performTask(IngestPipeline.java:217)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:619)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+org.sleuthkit.autopsy.keywordsearch.KeywordSearchModuleException: Could not add batched documents to index
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:461)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:388)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.search(Ingester.java:267)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.extractStringsAndIndex(KeywordSearchIngestModule.java:714)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.searchFile(KeywordSearchIngestModule.java:802)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.process(KeywordSearchIngestModule.java:391)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:208)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:182)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.performTask(IngestPipeline.java:217)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:619)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+org.sleuthkit.autopsy.keywordsearch.KeywordSearchModuleException: Could not add batched documents to index
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:461)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:388)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.search(Ingester.java:267)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.extractStringsAndIndex(KeywordSearchIngestModule.java:714)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.searchFile(KeywordSearchIngestModule.java:802)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.process(KeywordSearchIngestModule.java:391)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:208)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:182)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.performTask(IngestPipeline.java:217)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:619)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:21:51.096 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule extractStringsAndIndex
+WARNING: Failed to extract strings and ingest, file 'a.raw' (id: 2).
+org.sleuthkit.autopsy.keywordsearch.Ingester$IngesterException: Error ingesting document: a.raw
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:461)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:388)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.search(Ingester.java:267)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.extractStringsAndIndex(KeywordSearchIngestModule.java:714)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.searchFile(KeywordSearchIngestModule.java:802)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.process(KeywordSearchIngestModule.java:391)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:208)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:182)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.performTask(IngestPipeline.java:217)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:619)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+org.sleuthkit.autopsy.keywordsearch.KeywordSearchModuleException: Could not add batched documents to index
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:461)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:388)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.search(Ingester.java:267)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.extractStringsAndIndex(KeywordSearchIngestModule.java:714)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.searchFile(KeywordSearchIngestModule.java:802)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.process(KeywordSearchIngestModule.java:391)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:208)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:182)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.performTask(IngestPipeline.java:217)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:619)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+org.sleuthkit.autopsy.keywordsearch.KeywordSearchModuleException: Could not add batched documents to index
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:461)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.indexChunk(Ingester.java:388)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.search(Ingester.java:267)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.extractStringsAndIndex(KeywordSearchIngestModule.java:714)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.searchFile(KeywordSearchIngestModule.java:802)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.process(KeywordSearchIngestModule.java:391)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:208)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline$FileIngestPipelineModule.process(FileIngestPipeline.java:182)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.performTask(IngestPipeline.java:217)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:619)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:21:52.111 org.sleuthkit.autopsy.ingest.IngestJobExecutor logInfoMessage
+INFO: Finished all ingest tasks for tier 0 of ingest job (data source = LogicalFileSet1, data source object ID = 1, job ID = 0)
+2024-09-11 23:21:52.13 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule shutDown
+INFO: Keyword search ingest module instance 0 shutting down
+2024-09-11 23:21:52.14 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule shutDown
+INFO: Keyword search ingest module instance 1 shutting down
+2024-09-11 23:21:52.292 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.commit(Server.java:2177)
+	org.sleuthkit.autopsy.keywordsearch.Server.commit(Server.java:1540)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.commit(Ingester.java:471)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.shutDown(KeywordSearchIngestModule.java:420)
+	org.sleuthkit.autopsy.ingest.IngestPipeline$PipelineModule.shutDown(IngestPipeline.java:436)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.shutDown(IngestPipeline.java:324)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline.shutDown(FileIngestPipeline.java:106)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownIngestModulePipeline(IngestJobExecutor.java:854)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownCurrentTier(IngestJobExecutor.java:830)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.checkForTierCompleted(IngestJobExecutor.java:513)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:635)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:22:02.318 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.commit(Server.java:2177)
+	org.sleuthkit.autopsy.keywordsearch.Server.commit(Server.java:1540)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.commit(Ingester.java:471)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.shutDown(KeywordSearchIngestModule.java:420)
+	org.sleuthkit.autopsy.ingest.IngestPipeline$PipelineModule.shutDown(IngestPipeline.java:436)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.shutDown(IngestPipeline.java:324)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline.shutDown(FileIngestPipeline.java:106)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownIngestModulePipeline(IngestJobExecutor.java:854)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownCurrentTier(IngestJobExecutor.java:830)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.checkForTierCompleted(IngestJobExecutor.java:513)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:635)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:22:12.328 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.commit(Server.java:2177)
+	org.sleuthkit.autopsy.keywordsearch.Server.commit(Server.java:1540)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.commit(Ingester.java:471)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.shutDown(KeywordSearchIngestModule.java:420)
+	org.sleuthkit.autopsy.ingest.IngestPipeline$PipelineModule.shutDown(IngestPipeline.java:436)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.shutDown(IngestPipeline.java:324)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline.shutDown(FileIngestPipeline.java:106)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownIngestModulePipeline(IngestJobExecutor.java:854)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownCurrentTier(IngestJobExecutor.java:830)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.checkForTierCompleted(IngestJobExecutor.java:513)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:635)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:22:22.346 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.commit(Server.java:2177)
+	org.sleuthkit.autopsy.keywordsearch.Server.commit(Server.java:1540)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.commit(Ingester.java:471)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.shutDown(KeywordSearchIngestModule.java:420)
+	org.sleuthkit.autopsy.ingest.IngestPipeline$PipelineModule.shutDown(IngestPipeline.java:436)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.shutDown(IngestPipeline.java:324)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline.shutDown(FileIngestPipeline.java:106)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownIngestModulePipeline(IngestJobExecutor.java:854)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownCurrentTier(IngestJobExecutor.java:830)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.checkForTierCompleted(IngestJobExecutor.java:513)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:635)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:22:32.368 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.commit(Server.java:2177)
+	org.sleuthkit.autopsy.keywordsearch.Server.commit(Server.java:1540)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.commit(Ingester.java:471)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.shutDown(KeywordSearchIngestModule.java:420)
+	org.sleuthkit.autopsy.ingest.IngestPipeline$PipelineModule.shutDown(IngestPipeline.java:436)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.shutDown(IngestPipeline.java:324)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline.shutDown(FileIngestPipeline.java:106)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownIngestModulePipeline(IngestJobExecutor.java:854)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownCurrentTier(IngestJobExecutor.java:830)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.checkForTierCompleted(IngestJobExecutor.java:513)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:635)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:22:42.377 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.commit(Server.java:2177)
+	org.sleuthkit.autopsy.keywordsearch.Server.commit(Server.java:1540)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.commit(Ingester.java:471)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.shutDown(KeywordSearchIngestModule.java:420)
+	org.sleuthkit.autopsy.ingest.IngestPipeline$PipelineModule.shutDown(IngestPipeline.java:436)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.shutDown(IngestPipeline.java:324)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline.shutDown(FileIngestPipeline.java:106)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownIngestModulePipeline(IngestJobExecutor.java:854)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownCurrentTier(IngestJobExecutor.java:830)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.checkForTierCompleted(IngestJobExecutor.java:513)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:635)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:22:52.386 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.commit(Server.java:2177)
+	org.sleuthkit.autopsy.keywordsearch.Server.commit(Server.java:1540)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.commit(Ingester.java:471)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.shutDown(KeywordSearchIngestModule.java:420)
+	org.sleuthkit.autopsy.ingest.IngestPipeline$PipelineModule.shutDown(IngestPipeline.java:436)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.shutDown(IngestPipeline.java:324)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline.shutDown(FileIngestPipeline.java:106)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownIngestModulePipeline(IngestJobExecutor.java:854)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownCurrentTier(IngestJobExecutor.java:830)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.checkForTierCompleted(IngestJobExecutor.java:513)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:635)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:23:02.397 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.commit(Server.java:2177)
+	org.sleuthkit.autopsy.keywordsearch.Server.commit(Server.java:1540)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.commit(Ingester.java:471)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.shutDown(KeywordSearchIngestModule.java:420)
+	org.sleuthkit.autopsy.ingest.IngestPipeline$PipelineModule.shutDown(IngestPipeline.java:436)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.shutDown(IngestPipeline.java:324)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline.shutDown(FileIngestPipeline.java:106)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownIngestModulePipeline(IngestJobExecutor.java:854)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownCurrentTier(IngestJobExecutor.java:830)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.checkForTierCompleted(IngestJobExecutor.java:513)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:635)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:23:12.416 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+WARNING: Unable to send document batch to Solr. Re-trying...
+org.apache.solr.client.solrj.impl.HttpSolrClient$RemoteSolrException: Error from server at http://localhost:23232/solr/ctf_20240911_225927_20240911_225934: Server error writing document id 2 to the index
+	org.apache.solr.client.solrj.impl.HttpSolrClient.executeMethod(HttpSolrClient.java:681)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:266)
+	org.apache.solr.client.solrj.impl.HttpSolrClient.request(HttpSolrClient.java:248)
+	org.apache.solr.client.solrj.SolrRequest.process(SolrRequest.java:214)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:106)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:71)
+	org.apache.solr.client.solrj.SolrClient.add(SolrClient.java:85)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2318)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.commit(Server.java:2177)
+	org.sleuthkit.autopsy.keywordsearch.Server.commit(Server.java:1540)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.commit(Ingester.java:471)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.shutDown(KeywordSearchIngestModule.java:420)
+	org.sleuthkit.autopsy.ingest.IngestPipeline$PipelineModule.shutDown(IngestPipeline.java:436)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.shutDown(IngestPipeline.java:324)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline.shutDown(FileIngestPipeline.java:106)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownIngestModulePipeline(IngestJobExecutor.java:854)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownCurrentTier(IngestJobExecutor.java:830)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.checkForTierCompleted(IngestJobExecutor.java:513)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:635)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:23:22.423 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+SEVERE: Unable to send document batch to Solr. All re-try attempts failed!
+2024-09-11 23:23:22.423 org.sleuthkit.autopsy.keywordsearch.Server$Collection sendBufferedDocs
+SEVERE: Could not add batched documents to index
+org.sleuthkit.autopsy.keywordsearch.KeywordSearchModuleException: Could not add batched documents to index
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.sendBufferedDocs(Server.java:2341)
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.commit(Server.java:2177)
+	org.sleuthkit.autopsy.keywordsearch.Server.commit(Server.java:1540)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.commit(Ingester.java:471)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.shutDown(KeywordSearchIngestModule.java:420)
+	org.sleuthkit.autopsy.ingest.IngestPipeline$PipelineModule.shutDown(IngestPipeline.java:436)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.shutDown(IngestPipeline.java:324)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline.shutDown(FileIngestPipeline.java:106)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownIngestModulePipeline(IngestJobExecutor.java:854)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownCurrentTier(IngestJobExecutor.java:830)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.checkForTierCompleted(IngestJobExecutor.java:513)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:635)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:23:22.425 org.sleuthkit.autopsy.keywordsearch.Ingester commit
+WARNING: Error commiting index
+org.apache.solr.client.solrj.SolrServerException: Could not commit index
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.commit(Server.java:2179)
+	org.sleuthkit.autopsy.keywordsearch.Server.commit(Server.java:1540)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.commit(Ingester.java:471)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.shutDown(KeywordSearchIngestModule.java:420)
+	org.sleuthkit.autopsy.ingest.IngestPipeline$PipelineModule.shutDown(IngestPipeline.java:436)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.shutDown(IngestPipeline.java:324)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline.shutDown(FileIngestPipeline.java:106)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownIngestModulePipeline(IngestJobExecutor.java:854)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownCurrentTier(IngestJobExecutor.java:830)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.checkForTierCompleted(IngestJobExecutor.java:513)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:635)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+org.sleuthkit.autopsy.keywordsearch.KeywordSearchModuleException: Could not add batched documents to index
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.commit(Server.java:2179)
+	org.sleuthkit.autopsy.keywordsearch.Server.commit(Server.java:1540)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.commit(Ingester.java:471)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.shutDown(KeywordSearchIngestModule.java:420)
+	org.sleuthkit.autopsy.ingest.IngestPipeline$PipelineModule.shutDown(IngestPipeline.java:436)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.shutDown(IngestPipeline.java:324)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline.shutDown(FileIngestPipeline.java:106)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownIngestModulePipeline(IngestJobExecutor.java:854)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownCurrentTier(IngestJobExecutor.java:830)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.checkForTierCompleted(IngestJobExecutor.java:513)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:635)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+org.sleuthkit.autopsy.keywordsearch.KeywordSearchModuleException: Could not add batched documents to index
+	org.sleuthkit.autopsy.keywordsearch.Server$Collection.commit(Server.java:2179)
+	org.sleuthkit.autopsy.keywordsearch.Server.commit(Server.java:1540)
+	org.sleuthkit.autopsy.keywordsearch.Ingester.commit(Ingester.java:471)
+	org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule.shutDown(KeywordSearchIngestModule.java:420)
+	org.sleuthkit.autopsy.ingest.IngestPipeline$PipelineModule.shutDown(IngestPipeline.java:436)
+	org.sleuthkit.autopsy.ingest.IngestPipeline.shutDown(IngestPipeline.java:324)
+	org.sleuthkit.autopsy.ingest.FileIngestPipeline.shutDown(FileIngestPipeline.java:106)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownIngestModulePipeline(IngestJobExecutor.java:854)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.shutDownCurrentTier(IngestJobExecutor.java:830)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.checkForTierCompleted(IngestJobExecutor.java:513)
+	org.sleuthkit.autopsy.ingest.IngestJobExecutor.execute(IngestJobExecutor.java:635)
+	org.sleuthkit.autopsy.ingest.FileIngestTask.execute(FileIngestTask.java:94)
+	org.sleuthkit.autopsy.ingest.IngestManager$ExecuteIngestJobTasksTask.run(IngestManager.java:1121)
+	java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	java.base/java.lang.Thread.run(Thread.java:833)
+2024-09-11 23:23:22.448 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule shutDown
+INFO: Indexed files count: 0
+2024-09-11 23:23:22.457 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule shutDown
+INFO: Indexed file chunks count: 0
+2024-09-11 23:23:22.459 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule postIndexSummary
+INFO: Keyword Indexing Completed: <table border=0><tr><td>Files with known types</td><td>0</td></tr><tr><td>Files with general strings extracted</td><td>0</td></tr><tr><td>Metadata only was indexed</td><td>0</td></tr><tr><td>Error (indexer)</td><td>1</td></tr><tr><td>Error (text extraction)</td><td>0</td></tr><tr><td>Error (I/O)</td><td>0</td></tr></table>
+2024-09-11 23:23:22.593 org.sleuthkit.autopsy.ingest.IngestJobExecutor logInfoMessage
+INFO: Scheduling ingest tasks for tier 1 of ingest job (data source = LogicalFileSet1, data source object ID = 1, job ID = 0)
+2024-09-11 23:23:22.595 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule process
+INFO: Data Source Integrity analysis of LogicalFileSet1 starting
+2024-09-11 23:23:22.595 org.sleuthkit.autopsy.modules.dataSourceIntegrity.DataSourceIntegrityIngestModule process
+INFO: Skipping non-image LogicalFileSet1
+2024-09-11 23:23:22.596 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule process
+INFO: Data Source Integrity analysis of LogicalFileSet1 finished
+2024-09-11 23:23:22.596 org.sleuthkit.autopsy.ingest.IngestJobExecutor logInfoMessage
+INFO: Finished all ingest tasks for tier 1 of ingest job (data source = LogicalFileSet1, data source object ID = 1, job ID = 0)
+2024-09-11 23:23:22.596 org.sleuthkit.autopsy.ingest.IngestJobExecutor logInfoMessage
+INFO: Finished all ingest tasks for ingest job (data source = LogicalFileSet1, data source object ID = 1, job ID = 0)
+2024-09-11 23:23:22.605 org.sleuthkit.autopsy.ingest.IngestManager finishIngestJob
+INFO: Ingest job 0 completed at 1726077202605
+2024-09-12 00:49:57.903 org.sleuthkit.autopsy.keywordsearch.Server stopLocalSolr
+INFO: Stopping Solr 8 server
+2024-09-12 00:49:57.911 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+INFO: Setting Solr 8 directory: C:\Program Files\Autopsy-4.21.0\autopsy\solr
+2024-09-12 00:49:57.911 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+INFO: Running Solr 8 command: [C:\Program Files\Autopsy-4.21.0\autopsy\solr\bin\autopsy-solr.cmd, stop, -k, jjk#09s, -p, 23232] from C:\Program Files\Autopsy-4.21.0\autopsy\solr
+2024-09-12 00:49:58.046 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+INFO: Finished running Solr 8 command
+2024-09-12 00:49:58.046 org.sleuthkit.autopsy.keywordsearch.Server stopLocalSolr
+INFO: Waiting for Solr server to stop
+2024-09-12 00:50:00.959 org.sleuthkit.autopsy.keywordsearch.Server stopLocalSolr
+INFO: Finished stopping Solr server
+2024-09-12 00:50:00.959 org.sleuthkit.autopsy.core.Installer <init>
+INFO: core installer created
+2024-09-12 00:50:01.866 org.sleuthkit.autopsy.casemodule.Case closeCurrentCase
+INFO: Closing current case CTF (ctf_20240911_225927) in C:\Documents4\CyberSec\ANCCTF\forensics\530\CTF
+2024-09-12 00:50:04.305 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
+INFO: Shutting down image gallery controller for case CTF (ctf_20240911_225927)
+2024-09-12 00:50:04.319 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB close
+INFO: Closing the drawable.db
+2024-09-12 00:50:04.344 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
+INFO: Completed shut down of image gallery controller for case CTF (ctf_20240911_225927)

@@ -1,0 +1,5 @@
+Cipher text : 69****************************f42b2a885a6e224f22d633f06b101546f4
+
+Key : wvmxqmkm_qa_zmit
+
+Plain text : "passwords should be unguessable"

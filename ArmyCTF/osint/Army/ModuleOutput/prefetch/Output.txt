@@ -1,0 +1,2 @@
+Prefetch Directory is  C:\Users\Abu\AppData\Local\Temp\Autopsy\army_20240924_203423\Temp\RecentActivity\1-Autopsy_PF_DB.db3_0
+DB file is  C:\Documents4\CyberSec\ArmyCTF\osint\Army\ModuleOutput\prefetch\1-Autopsy_PF_DB.db3

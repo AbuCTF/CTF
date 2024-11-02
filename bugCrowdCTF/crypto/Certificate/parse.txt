@@ -1,0 +1,129 @@
+Version:          3 (0x02)
+Serial number:    517595799433647368936391714836713938710956365894 (0x5aa9cc619be722d0432049c334b9bc3a4dc45846)
+Algorithm ID:     SHA256withRSA
+Validity
+  Not Before:     17/07/2024 00:49:40 (dd-mm-yyyy hh:mm:ss) (240717004940Z)
+  Not After:      15/07/2034 00:49:40 (dd-mm-yyyy hh:mm:ss) (340715004940Z)
+Issuer
+  C  = US
+  ST = Some-State
+  O  = Buggy
+  OU = Buggy OU
+  CN = Printer Cert
+Subject
+  C  = US
+  ST = Some-State
+  O  = Buggy
+  OU = Buggy OU
+  CN = Printer Cert
+Public Key
+  Algorithm:      RSA
+  Length:         2047 bits
+  Modulus:        58:fd:bd:f5:21:98:21:b3:b3:78:a9:91:ed:e7:94:5c:
+                  21:f1:03:3d:9d:32:7e:b1:82:4b:04:ae:bb:91:c6:fa:
+                  a0:8f:bb:63:e6:9e:b2:3f:d8:61:fd:1a:88:05:95:03:
+                  51:5d:8a:c2:5c:0f:41:45:8d:ea:1d:ef:54:ac:53:d5:
+                  f4:c5:4c:de:87:10:71:c7:54:90:80:a7:83:d6:1e:89:
+                  fc:f0:41:0a:78:ab:83:81:41:35:6c:72:f6:32:8a:ad:
+                  0b:9d:1c:0b:8a:3b:10:cb:64:5f:90:c2:26:48:dd:55:
+                  7f:3e:71:29:39:28:d2:36:50:22:8e:64:3f:e5:6b:9d:
+                  0b:fa:2d:f0:a1:b7:70:c4:57:29:a2:20:25:89:72:8e:
+                  50:1f:20:83:59:82:f3:af:66:aa:3d:11:80:cb:ad:fc:
+                  c3:7a:80:4c:c9:07:1f:d7:e1:a7:77:4f:30:c1:35:5e:
+                  00:c6:34:e9:95:28:1f:a2:7f:50:ff:73:e5:ac:7b:6e:
+                  55:a7:d0:d6:ba:ce:00:7a:03:2a:65:a9:e9:1e:7e:9d:
+                  49:4f:72:e8:32:a0:2e:7d:a2:58:25:bf:dc:cf:35:d7:
+                  f8:47:ed:ea:67:c3:96:b6:d5:c2:aa:e6:d7:c7:4d:91:
+                  e0:30:d3:64:83:b7:06:04:d0:a6:2d:7a:ac:6e:86:c1
+  Exponent:       65537 (0x10001)
+Certificate Signature
+  Algorithm:      SHA256withRSA
+  Signature:      08:4a:c2:a2:62:5b:16:3e:3a:8b:fa:fe:8e:d4:46:7c:
+                  6c:2c:1d:bc:44:c2:81:2a:09:70:70:37:af:77:2a:73:
+                  26:6e:c9:42:90:13:86:ba:c7:74:ab:86:0a:9c:4f:c1:
+                  a8:2f:95:99:e4:07:c8:94:10:1f:f9:f7:12:9d:91:02:
+                  5b:fb:75:9a:46:1c:f4:a7:38:69:ae:de:9e:27:e3:7f:
+                  c5:72:26:03:5e:1c:bf:36:3c:e9:f7:96:30:5f:85:89:
+                  15:4e:46:50:4d:a8:02:1d:d4:00:9d:e5:d2:3f:da:3c:
+                  05:ac:82:31:bc:4f:b6:cd:37:a9:57:f4:3b:a5:e4:bf:
+                  19:bc:8b:65:27:08:65:f2:f9:75:4c:a5:9f:11:84:d8:
+                  28:ef:2b:dd:8b:3f:0e:30:c9:ad:4c:a2:52:1d:69:18:
+                  b8:21:b1:ae:c4:79:84:9e:c7:59:d2:ab:b7:48:fa:41:
+                  dc:34:35:ba:12:95:19:2d:6c:7b:63:43:f8:f2:80:cf:
+                  12:c6:30:5d:83:b1:85:b5:03:71:21:0b:85:f5:95:45:
+                  a3:f3:13:03:46:76:00:ea:76:0f:01:3c:c3:20:09:e4:
+                  bd:0d:c4:91:02:ab:bc:fd:63:06:6d:06:3b:d8:c0:69:
+                  73:bd:08:83:f4:9d:32:bb:d7:de:36:4c:64:b9:af:4f
+
+Extensions
+  subjectKeyIdentifier :
+    54453aca2ee7fba715883fcc7640f3f27e9fd937
+  authorityKeyIdentifier :
+    kid=54453aca2ee7fba715883fcc7640f3f27e9fd937
+  basicConstraints CRITICAL:
+    cA=true
+
+Version:          3 (0x02)
+Serial number:    110682426763689296894270732403517057239990703922 (0x13632bf27d73a4ada6cca1c9becdb531101c9732)
+Algorithm ID:     SHA256withRSA
+Validity
+  Not Before:     17/07/2024 00:54:27 (dd-mm-yyyy hh:mm:ss) (240717005427Z)
+  Not After:      15/07/2034 00:54:27 (dd-mm-yyyy hh:mm:ss) (340715005427Z)
+Issuer
+  C  = US
+  ST = Some-State
+  O  = Buggy
+  OU = Buggy OU
+  CN = Endpoint Cert
+Subject
+  C  = US
+  ST = Some-State
+  O  = Buggy
+  OU = Buggy OU
+  CN = Endpoint Cert
+Public Key
+  Algorithm:      RSA
+  Length:         2047 bits
+  Modulus:        70:8a:e9:43:7b:2a:f4:3c:b2:1d:e4:5f:86:46:87:63:
+                  24:f5:90:b8:f7:52:5e:56:88:cc:13:68:14:5c:1a:3c:
+                  dd:ae:20:52:b1:15:db:8d:ac:d9:4a:45:03:8f:86:65:
+                  4b:bf:49:27:14:88:75:64:0f:b8:f7:98:10:9b:fa:08:
+                  99:19:f4:d2:31:d2:fb:7a:f0:be:92:36:0d:ac:5d:4a:
+                  3e:0f:be:e5:43:57:b3:43:9e:70:07:02:b8:0d:47:32:
+                  24:1c:10:a5:84:50:8b:4c:d2:2b:66:de:8c:d8:e2:9a:
+                  51:75:b1:7c:ce:81:e1:f7:8b:81:59:d9:8b:fc:56:24:
+                  c9:36:52:c9:f6:d7:c4:96:26:ed:59:47:4a:e0:18:7c:
+                  a0:33:84:e4:50:47:b3:6b:2d:22:20:44:c9:76:1e:a9:
+                  c3:5a:09:c8:1a:04:5d:d6:d7:4d:8b:65:30:19:4d:6c:
+                  cc:a5:0c:b9:f4:e1:60:f5:be:75:ae:74:ab:d4:8d:1c:
+                  b8:68:1c:d5:da:22:af:4f:92:a9:3e:a0:c5:b3:0e:1d:
+                  68:9c:fa:8e:63:34:db:a2:04:7a:86:40:af:0c:23:cb:
+                  97:a8:82:73:c7:1d:23:3a:3f:7b:33:60:62:bb:06:5c:
+                  18:5a:ff:0e:d7:c3:cb:a8:96:25:95:ce:df:ad:4a:13
+  Exponent:       65537 (0x10001)
+Certificate Signature
+  Algorithm:      SHA256withRSA
+  Signature:      4a:e7:59:a1:22:f7:4f:a7:a9:6f:98:3e:f6:fc:cf:de:
+                  45:9d:f0:5c:df:e2:ed:50:a5:2e:5e:35:dd:84:55:2b:
+                  c6:be:60:4f:29:c7:99:d1:1a:52:92:e4:bb:be:e1:33:
+                  12:14:02:c1:51:c2:00:f1:3e:03:ed:c9:ff:16:85:61:
+                  47:0e:30:2a:42:51:c5:45:52:f4:0a:f7:1c:f7:76:4d:
+                  07:a2:fd:09:df:3b:b9:30:dc:ae:e6:9a:3b:38:ac:34:
+                  95:51:54:c8:74:10:1d:f2:cb:38:45:9f:62:ee:ae:0a:
+                  91:a8:47:51:90:8e:d1:20:4b:a7:b8:ab:85:7f:ad:c2:
+                  a0:62:77:39:b3:ac:70:52:67:1f:c9:be:0b:76:89:c4:
+                  72:29:d1:3f:e2:6e:26:cb:90:65:bf:7e:3c:b5:60:f3:
+                  e0:29:23:14:6e:2f:63:1e:f2:a3:8a:64:fe:86:c6:8c:
+                  93:00:6a:b4:1d:7f:2e:0b:39:6b:a0:11:79:e7:6a:dd:
+                  9d:c4:58:6e:95:9b:53:3d:32:37:a0:cd:10:4d:9f:71:
+                  9d:92:b8:e3:74:8f:04:38:37:3b:83:af:1b:6b:bf:f4:
+                  a8:52:ac:d2:03:16:9e:64:4d:0f:5e:a5:41:da:23:7a:
+                  b8:82:93:2d:31:27:58:75:39:d3:a4:50:89:74:c9:75
+
+Extensions
+  subjectKeyIdentifier :
+    6e0476dae1ff12f8cfb20ed0ba8ef801a874ee52
+  authorityKeyIdentifier :
+    kid=6e0476dae1ff12f8cfb20ed0ba8ef801a874ee52
+  basicConstraints CRITICAL:
+    cA=true
